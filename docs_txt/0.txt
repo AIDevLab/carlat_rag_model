@@ -1,0 +1,1539 @@
+
+ADHD Medications
+GENERAL PRESCRIBING TIPS
+Generally, when you have a patient with ADHD symptoms, your /f_irst choice will be one of the psychostimulants, 
+because these are usually more eﬀective than the alternatives—atomoxetine, bupropion, clonidine, guanfacine, and 
+viloxazine. Which psychostimulant will you choose? Here are some of the factors that will in/f_luence your decision:
+
+------------------------------------------------------------------- 
+1. Long-acting vs short-acting.  Choosing between long- and short-acting stimulants is more art than science. Trial and 
+error, combined with patient preference, will dictate the /f_inal regimen. Adults will often start with a long-acting 
+agent so they can take a single dose in the morning and have it carry through their workday. Kids may do better 
+with short-acting stimulants so that they will have an appetite when the medication wears oﬀ at lunch.
+
+------------------------------------------------------------------- 
+2. Amphetamines vs methylphenidates.  More recent data have suggested that, based on safety and eﬃcacy, 
+methylphenidates are a better choice in kids and adolescents whereas amphetamine-class agents are better 
+in adults. Generally, this is a Coke vs Pepsi decision—some people like one better than the other, and you can’t 
+predict their preference ahead of time. We recommend a methylphenidate over an amphetamine because 
+amphetamines may have more side eﬀects and are more likely to be abused or diverted, but our algorithm starts 
+with an amphetamine /f_irst given the eﬃcacy data.
+
+------------------------------------------------------------------- 
+3. Stimulants vs non-stimulants.  Stimulants are more eﬀective than non-stimulants, so they will be your /f_irst-line 
+choice for most patients. If you have a patient with a substance use disorder, start with atomoxetine. Some 
+special clinical circumstances seem to naturally call for other options. For example, bupropion is helpful for ADHD 
+symptoms, as well as for depression, tobacco use, and being overweight, so it might be a great choice for patients 
+with a combination of these problems. Alpha agonists, such as guanfacine and clonidine, are helpful for both 
+ADHD and insomnia, another potential two-fer, though these meds tend to be used more frequently for children.
+------------------------------------------------------------------- 
+4. Fancy formulations.  Many new formulations of amphetamines and methylphenidates have been introduced 
+over the last few years, including the use of various drug delivery technologies, enantiomers, prodrugs, salts, 
+and dosage forms. While they may have been marketed to increase drug company pro/f_its, some of them may 
+have clinical utility. Examples of potentially useful advances include Quillichew ER (a chewable long-acting 
+methylphenidate), Cotempla XR-ODT (an ODT long-acting methylphenidate), Adzenys XR-ODT (an ODT long-acting 
+amphetamine), Dyanavel XR (a long-acting liquid amphetamine), and most intriguingly, Jornay PM (a long-acting 
+methylphenidate you take at night that kicks in the next morning). We cover these formulations in the ADHD 
+Medications table.
+
+------------------------------------------------------------------- 
+5. Cost.  Most ADHD meds are available generically, but some reasonable choices are still branded and therefore 
+more expensive. The most popular of these is Vyvanse, which is a long-acting amphetamine. Vyvanse appears to 
+have a genuine advantage over many other stimulants, mainly in terms of tolerability and less potential for abuse. 
+However, you’ll have a hard time convincing insurance companies to cover the cost of Vyvanse unless you can 
+clearly document intolerance in several other trials of stimulants. While the generic just launched, it's still more 
+expensive than other stimulant generics.
+
+------------------------------------------------------------------- 
+Dose Equivalents and Switching Strategies
+Most patients need to try diﬀerent stimulants, or stimulant formulations, before settling on the one that works best 
+for them. The dose equivalents are, luckily, fairly easy to remember.
+1. From one amphetamine to another amphetamine
+ /uni2981With the exception of Vyvanse, all amphetamines, including both Adderall IR and XR, are roughly equivalent 
+in potency. For example, if a patient is taking Dexedrine 10 mg TID, you can switch this to Adderall 15 mg BID 
+or Adderall XR 30 mg QD. That said, some people believe that Dexedrine, being 100% dextroamphetamine, 
+might be more potent than Adderall, which is 75% d-amphetamine and 25% l-amphetamine (eg, 30 mg/day of 
+Dexedrine may be closer to 40 mg/day of Adderall). In reality, the diﬀerence is likely negligible in most people.
+ /uni2981Vyvanse is composed of both lysine and amphetamine, with amphetamine making up only about 30% of 
+Vyvanse. This means that it’s much less potent than straight Dexedrine. So, when switching from another 
+amphetamine to Vyvanse, you have to at least double the dose.
+2. From one methylphenidate to another methylphenidate
+ /uni2981With the exception of Concerta and Focalin, all methylphenidate preparations are roughly equivalent in potency.
+ /uni2981Concerta, because of its complex delivery system, delivers less methylphenidate than implied by the mg amount 
+you prescribe. The usual conversion percentage used is 83%, meaning that the body sees 83% of Concerta  in methylphenidate equivalents. Thus, Concerta 18 mg is equivalent to methylphenidate 15 mg, 36 mg is 
+equivalent to 30 mg, and so on.
+ /uni2981Focalin is the dextro-isomer of methylphenidate, which is twice as potent as methylphenidate. Thus, use about 
+half the dose when prescribing Focalin.
+3. From a methylphenidate to an amphetamine (or vice versa)
+ /uni2981Methylphenidate is roughly half as potent as amphetamine, so Ritalin 10 mg = Dexedrine 5 mg, etc. Consistent 
+with this equivalency, child psychiatrists often dose methylphenidate at 1 mg/kg, whereas they dose 
+amphetamine at 0.5 mg/kg. Conversely, if you’re switching from Dexedrine to Ritalin, you would need to increase 
+the dose by a factor of two.
+4. From an oral methylphenidate to the methylphenidate patch (Daytrana)
+ /uni2981According to a clinical trial of patients switched from various versions of long-acting methylphenidate to the 
+patch, you should dose the patch at about half the dose of the oral medication (Arnold LE et al, Curr Med Res Opin  
+2010;26(1):129–137).
+
+------------------------------------------------------------------- 
+
+How to Switch
+Once you’ve determined the dose equivalence, the actual switching is easy. You don’t have to cross-taper; instead, 
+have your patient take the last dose of stimulant A on day one and start stimulant B on day two. To be prudent, start 
+the new stimulant at a somewhat lower dose than you calculate would be needed based on the equivalent dose rules 
+of thumb. Those equivalencies are based on averages and may not apply to a given individual.
+
+------------------------------------------------------------------- 
+Side Eﬀects and Class Warnings
+The following apply to all stimulants:
+ /uni2981Potential to cause psychosis or aggression.  This is a rare and dose-related eﬀect; it may be more likely in patients with 
+a predisposition for psychosis.
+ /uni2981Worsening or new-onset Tourette’s or tic disorders.  Stimulants may unmask tics. Of stimulants, methylphenidate is 
+favored. The non-stimulant guanfacine is an even better alternative.
+ /uni2981Seizures.  Stimulants may lower the seizure threshold, although data are contradictory; monitor patients with seizure 
+disorders closely.
+ /uni2981Growth inhibition or weight loss.  With long-term use, some growth inhibition may occur occasionally in children, 
+but this is generally not a major problem. Monitoring growth and considering “drug holidays” may limit growth 
+suppression.
+ /uni2981Cardiovascular safety.  The FDA issued a serious class warning in 2006 with regard to cardiovascular safety. However, 
+newer data, both in children and in adults, have been reassuring. Cardiac events occurred at virtually the same 
+or lower rates among people who took stimulants compared to those who did not. From a practical perspective, 
+we recommend asking about cardiac problems and consulting the child’s pediatrician or cardiologist if a problem 
+exists. Amphetamines should be avoided in patients with known or suspected cardiovascular disease.
+ /uni2981Potential for misuse and abuse.  The FDA updated the class warnings for all stimulants in 2023 to include the potential 
+for misuse, abuse, addiction, overdose, and death compared to the previous warning of a “potential for abuse and 
+dependence. ” Just as before, patients should be assessed and monitored for risk of misuse.
+ /uni2981No re/f_ills. All stimulants are controlled substances (Schedule II), which means they can’t be re/f_illed or called in. 
+Patients must be given a new prescription every month. In most states, you are allowed to give patients post-dated 
+prescriptions for convenience.
+
+-------------------------------------------------------------------  
+19AMPHETAMINE  (Adzenys XR-ODT, Dyanavel XR, Evekeo) Fact Sheet [G]
+Bottom Line:
+Amphetamine is a 50:50 racemic mixture of dextro- and levo-amphetamine. In clinical practice, the most commonly 
+prescribed amphetamine is Adderall (mixed amphetamine salts; see fact sheet later in this chapter). Based on meta-
+analyses, amphetamines are clearly the most eﬀective option in both children and adults with ADHD. That doesn’t 
+mean they should always be the /f_irst choice, though. Methylphenidates are often better tolerated and have relatively 
+less abuse potential. Several newer formulations of amphetamine may be helpful for patients who don’t like to 
+swallow pills—but they come with a price tag.
+FDA Indications:
+ADHD  (Adzenys XR-ODT: adults and children ≥6; Dyanavel XR: children ≥6; Evekeo: children ≥3); narcolepsy (Evekeo); 
+obesity (Evekeo).
+Oﬀ-Label Uses:
+Treatment-resistant depression.
+Dosage Forms:
+ /uni2981Tablets (Evekeo, [G]):  5 mg, 10 mg (scored); (Evekeo ODT):  5 mg, 10 mg, 15 mg, 20 mg.
+ /uni2981ER tablets (Dyanavel XR):  5 mg (scored), 10 mg, 15 mg, 20 mg.
+ /uni2981ER orally disintegrating tablets (Adzenys XR-ODT):  3.1 mg, 6.3 mg, 9.4 mg, 12.5 mg, 15.7 mg, 18.8 mg.
+ /uni2981ER oral suspension (Dyanavel XR): 2.5 mg/mL.
+Dosage Guidance:
+ /uni2981Tablets (Evekeo, [G]):
+ –Children 3–5: Start 2.5 mg QAM, increase in 2.5 mg/day increments weekly.
+ –Children 6–17: Start 5 mg QAM, increase in 5 mg/day increments weekly to maximum of 40 mg/day in divided doses.
+ –Narcolepsy: Start 5 mg QAM (ages 6–12) or 10 mg QAM (ages >12), increase by 5 or 10 mg/day increments weekly, 
+respectively. Maximum 60 mg/day in divided doses.
+ /uni2981ER ODT (Adzenys XR-ODT):
+ –Start 6.3 mg QAM, increase in 3.1–6.3 mg/day increments weekly. Maximum of 18.8 mg/day (ages 6–12) or 12.5 
+mg/day (ages 13–17 and adults).
+ /uni2981ER oral suspension (Dyanavel XR):
+ –Children 6–12: Start 2.5–5 mg QAM, increase in 2.5–10 mg/day increments every four to seven days. Maximum 20 mg/day.
+Monitoring:  ECG if history of cardiac disease.
+Cost:  (G): $$$; others: $$$$
+Side Eﬀects:
+ /uni2981Most common: Abdominal pain, decreased appetite, weight loss, insomnia, headache, nervousness.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+ /uni2981Pregnancy/breastfeeding: Limited data in pregnancy; likely safe in breastfeeding.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily via CYP2D6; t ½: 11 hours.
+ /uni2981Avoid use with MAOIs, antacids.
+Clinical Pearls:
+ /uni2981These racemic forms of amphetamine diﬀer from dextroamphetamine in that the l-isomer component is more 
+potent than the d-isomer in peripheral activity (potentially resulting in more cardiovascular eﬀects and tics).
+ /uni2981A racemic mixture may be less appetite suppressing compared to dextroamphetamine.
+ /uni2981Divide IR (Evekeo) doses by intervals of four to six hours.
+ /uni2981Approximate equivalence doses of Adzenys XR-ODT and mixed amphetamine salts XR (Adderall XR) are: 3.1 mg = 5 
+mg, 6.3 mg = 10 mg, 9.4 mg = 15 mg, 12.5 mg = 20 mg, 15.7 mg = 25 mg, 18.8 mg = 30 mg.
+ /uni2981Dyanavel XR oral suspension: Shake well to get the intended extended-release eﬀect. The approximate equivalence 
+of 2.5 mg/mL is 4 mg of mixed amphetamine salts.
+Fun Facts:
+The term “amphetamine” is the contracted name of the chemical “alpha-methylphenethylamine. ” Its /f_irst 
+pharmacologic use was in 1934 when pharmaceutical company Smith, Kline and French sold amphetamine under the 
+trade name Benzedrine as a decongestant inhaler.
+
+------------------------------------------------------------------- 
+ATOMOXETINE  (Strattera) Fact Sheet [G]
+Bottom Line:
+Atomoxetine is a non-stimulant ADHD treatment that carries no abuse potential, causes less insomnia and anxiety, 
+and is unlikely to worsen tics. Unfortunately, it is generally less eﬀective than stimulants and takes longer to work (two 
+to four weeks).
+FDA Indications:
+ADHD  (adults and children ≥6 years).
+Oﬀ-Label Uses:
+Treatment-resistant depression.
+Dosage Forms:
+Capsules (G):  10 mg, 18 mg, 25 mg, 40 mg, 60 mg, 80 mg, 100 mg.
+Dosage Guidance:
+ /uni2981Start 40 mg QAM for three days, ↑ to 80 mg QAM; may ↑ to 100 mg/day after two to four weeks if needed (max 100 
+mg/day); may divide doses >40 mg/day (morning and late afternoon/early evening).
+ /uni2981Special dosing for children <70 kg: Start 0.5 mg/kg QAM for three days, ↑ to 1.2 mg/kg QAM; may ↑ to max 1.4 mg/
+kg/day or 100 mg/day (whichever is less) after two to four weeks if needed; may divide doses >0.5 mg/kg/day.
+Monitoring:  Baseline LFTs; follow up if signs of liver disease.
+Cost:  $
+Side Eﬀects:
+ /uni2981Most common: Children:  Headache, abdominal pain, decreased appetite, fatigue, nausea, vomiting. Adults:  Nausea, 
+dry mouth, decreased appetite, insomnia, constipation, fatigue, erectile dysfunction, abdominal pain, dizziness, 
+urinary hesitation.
+ /uni2981Serious but rare: Class warning for suicidal ideation in children and teens. Severe hepatic injury including increased 
+hepatic enzymes (up to 40 times normal) and jaundice (bilirubin up to 12 times upper limit of normal). Increased 
+blood pressure ( ↑ 15–20 mmHg) and heart rate ( ↑ 20 bpm).
+ /uni2981Pregnancy/breastfeeding: Limited but reassuring data in pregnancy; minimal data in breastfeeding.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Selective norepinephrine reuptake inhibitor (NRI).
+ /uni2981Metabolized primarily via CYP2D6; t ½: 5 hours.
+ /uni2981Avoid use with MAOIs. Exercise caution with 2D6 inhibitors such as /f_luoxetine, paroxetine, and quinidine (increased 
+atomoxetine serum levels); use slower titration and do not exceed 80 mg/day in presence of 2D6 inhibitors or in 2D6 
+poor metabolizers.
+Clinical Pearls:
+ /uni2981QAM and BID dosing are equally eﬀective, but BID dosing has better GI tolerability. Can also be dosed at bedtime if 
+it causes fatigue.
+ /uni2981Appears to be more eﬀective in improving attention than in controlling hyperactivity.
+Fun Fact:
+Atomoxetine was originally known as “tomoxetine”; however, the FDA requested that the name be changed because 
+the similarity to “tamoxifen” could lead to dispensing errors.
+ADHD Medications
+
+------------------------------------------------------------------- 
+21CLONIDINE  (Catapres, Kapvay) Fact Sheet [G]
+Bottom Line:
+Clonidine is an alpha-2 agonist that has no abuse potential, does not worsen tics, and does not cause insomnia. 
+However, it’s less eﬀective than stimulants and has a delayed onset of eﬀect (two to four weeks); it is often added 
+to a stimulant to prevent insomnia. Clonidine may be used as a second-line option for opioid detoxi/f_ication if 
+buprenorphine or methadone are not available.
+FDA Indications:
+Hypertension;  ADHD  (children ages 6–17), as monotherapy or adjunctive therapy to stimulants (not approved for 
+ADHD in adults).
+Oﬀ-Label Uses:
+Conduct disorder; Tourette’s and motor tics; pervasive developmental disorders; migraine prophylaxis; opioid 
+withdrawal.
+Dosage Forms:
+ /uni2981IR tablets (Catapres, [G]):  0.1 mg, 0.2 mg, 0.3 mg.
+ /uni2981ER tablets (Kapvay, [G]):  0.1 mg, 0.2 mg.
+ /uni2981Patch (Catapres-TTS, [G]):  0.1 mg/day, 0.2 mg/day, 0.3 mg/day.
+Dosage Guidance:
+ /uni2981IR: Start 0.1 mg BID, ↑ by 0.1 mg/day at weekly intervals; max 2 mg/day. For opioid withdrawal, may be dosed 
+0.1–0.2 mg every four to six hours as needed. Daily dosing requirement can be established by tabulating the total 
+amount administered over the /f_irst 24 hours and dividing this amount into a TID or QID schedule. Total dose should 
+not exceed 1.2 mg the /f_irst 24 hours and 2 mg/day beyond that.
+ /uni2981ER: Start 0.1 mg QHS, ↑ by 0.1 mg/day at weekly intervals; max 0.4 mg/day. May divide doses >0.2 mg/day; divided 
+doses may be unequal with higher dose given at bedtime.
+Monitoring:  Blood pressure (hold doses for BP <90/60).
+Cost:  $
+Side Eﬀects:
+ /uni2981Most common: Dry mouth, somnolence, dizziness, constipation, fatigue, headache.
+ /uni2981Serious but rare: Hypotension, syncope, orthostasis.
+ /uni2981Pregnancy/breastfeeding: Limited data in pregnancy; not recommended in breastfeeding and may lower milk 
+supply.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Centrally acting, selective alpha-2 adrenergic agonist.
+ /uni2981Metabolized primarily through CYP2D6; t ½: 6–20 hours.
+ /uni2981Avoid use with MAOIs. Caution with 2D6 inhibitors (eg, paroxetine, /f_luoxetine, duloxetine).
+Clinical Pearls:
+ /uni2981Not a controlled substance.
+ /uni2981Clonidine tends to be more sedating than guanfacine, another alpha agonist.
+ /uni2981When used in detox, clonidine relieves most opioid withdrawal symptoms but is less eﬀective than methadone or 
+buprenorphine. Therefore, adjunctive medications are often used with clonidine to manage insomnia, muscle pain, 
+headache, agitation, and other symptoms. Even so, detox completion rates with clonidine are typically signi/f_icantly 
+lower than those with buprenorphine or methadone.
+ /uni2981The patch formulation is not typically used (except for hypertension) because clonidine’s eﬀects on BP may be 
+prolonged and continue even after patch removal.
+ /uni2981If patient misses two or more consecutive doses, consider repeating titration.
+ /uni2981Minimize side eﬀects, especially somnolence, by administering at bedtime.
+ /uni2981Monitor blood pressure, especially during initial dosing titration.
+ /uni2981Risk of nervousness, anxiety, and possibly rebound hypertension two to four days after abrupt discontinuation. 
+Taper dose in no more than 0.1 mg/day decrements, every three to seven days.
+Fun Fact:
+The Federal Bureau of Prisons’ clinical guidance document, Detoxi/f_ication of Chemically Dependent Inmates,  
+recommends maintaining strict control over medication access to prevent diversion or misuse. It cites the example of 
+inmates eating clonidine patches to obtain a state of euphoria.
+
+------------------------------------------------------------------- 
+DEXMETHYLPHENIDATE  (Azstarys, Focalin, Focalin XR) Fact Sheet [G]
+Bottom Line:
+Dexmethylphenidate (Focalin) is the d-isomer of methylphenidate and is two times more potent than 
+methylphenidate. Azstarys is a newly approved (and expensive) combination of Focalin and a prodrug version 
+of Focalin—the Focalin is absorbed quickly while the prodrug is absorbed more slowly (it’s the Vyvanse of 
+methylphenidate). There’s no clear advantage of Focalin over Ritalin—the main diﬀerence is that Focalin may mean 
+fewer tablets for patients. Focalin XR only recently went generic, so it will likely remain quite expensive for a while. 
+Azstarys may be less abusable than Focalin.
+FDA Indications:
+ADHD in adults (Azstarys, Focalin XR) and in children ≥6 years (Azstarys, Focalin IR and XR).
+Oﬀ-Label Uses:
+Narcolepsy, obesity, treatment-resistant depression.
+Dosage Forms:
+ /uni2981Dexmethylphenidate tablets (Focalin, [G]):  2.5 mg, 5 mg, 10 mg.
+ /uni2981Dexmethylphenidate ER capsules (Focalin XR, [G]):  5 mg, 10 mg, 15 mg, 20 mg, 25 mg, 30 mg, 35 mg, 40 mg.
+ /uni2981Serdexmethylphenidate/dexmethylphenidate ER capsules (Azstarys):  26.1/5.2 mg, 39.2/7.8 mg, 52.3/10.4 mg.
+Dosage Guidance:
+ /uni2981d-MPH IR: Start 2.5 mg BID, ↑ by 5–10 mg/day every seven days. Max 20 mg/day; divide IR doses by at least four 
+hours.
+ /uni2981d-MPH ER: Start 10 mg QAM, ↑ by 10 mg/day every seven days. Max 40 mg/day. For children, start 5 mg QAM, ↑ by 5 
+mg/day every seven days. Max (children) 30 mg/day.
+ /uni2981Serdex-MPH/d-MPH: Start 39.2/7.8 mg QAM, ↑ to max dose of 52.3/10.4 mg after one week if indicated.
+Monitoring:  ECG if history of cardiac disease.
+Cost:  IR: $; ER: $$; Azstarys: $$$$
+Side Eﬀects:
+ /uni2981Most common: Decreased appetite, insomnia, anxiety, GI distress, irritability, tics, headache, tachycardia, 
+hypertension, dry mouth.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+ /uni2981Pregnancy/breastfeeding: Limited data in pregnancy; likely safe in breastfeeding.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Serdexmethylphenidate (Serdex-MPH) is a prodrug of dexmethylphenidate (d-MPH). d-MPH is metabolized primarily 
+via de-esteri/f_ication, not CYP450. d-MPH t ½: 2–4.5 hours (2–3 hours in children); d-MPH ER delivers 50% of dose 
+immediately and 50% about /f_ive hours later. Azstarys t ½: 6–12 hours; delivers 30% d-MPH immediately and 70% as 
+prodrug.
+ /uni2981Avoid use with MAOIs.
+Clinical Pearls:
+ /uni2981d-MPH is the d-isomer of methylphenidate and is two times more potent than methylphenidate, which is why it is 
+prescribed at about half the dose. Serdex-MPH is a prodrug, converted to d-MPH in the lower GI tract.
+ /uni2981Use the same total daily dose of Focalin IR as Focalin XR. The combined dose of Azstarys 26.1/5.2, 39.2/7.8, or 
+52.3/10.4 mg is equivalent to 20, 30, or 40 mg of Focalin, respectively.
+ /uni2981Focalin XR capsules contain two kinds of beads: Half are IR beads and half are enteric-coated DR beads. A single, 
+once-daily XR capsule provides the same amount of dexmethylphenidate as two IR tablets given four hours apart.
+ /uni2981The ER capsules cannot be split in half. However, they can be opened and the beads sprinkled over food. The patient 
+should then eat all that food—eating half won’t work to split the dose accurately because it won’t be possible to 
+determine if the eaten portion contains more immediate-release or delayed-release beads.
+ /uni2981Give with food if GI side eﬀects occur.
+Fun Fact:
+With two stereoactive centers, methylphenidate has four possible stereoisomers. Of the four, dexmethylphenidate is 
+the most active biologically.
+ADHD Medications
+------------------------------------------------------------------- 
+23DEXTROAMPHETAMINE  (Dexedrine, Dextrostat, 
+Liquadd, ProCentra, Zenzedi) Fact Sheet [G]
+Bottom Line:
+Dextroamphetamine is the dextro-isomer of racemic amphetamine. It has a long history of safe use in children, and is 
+available in short- and long-acting formulations as generics.
+FDA Indications:
+ADHD (children ≥3 years);  narcolepsy (adults and children ≥6 years).
+Oﬀ-Label Uses:
+Obesity, treatment-resistant depression.
+Dosage Forms:
+ /uni2981Tablets (Dexedrine, Dextrostat, [G]):  5 mg, 10 mg (scored).
+ /uni2981Tablets (Zenzedi):  2.5 mg, 5 mg, 7.5 mg, 10 mg, 15 mg, 20 mg, 30 mg (5 mg scored, 10 mg double scored; rest 
+unscored).
+ /uni2981ER capsules (Dexedrine Spansules, [G]):  5 mg, 10 mg, 15 mg.
+ /uni2981Liquid (Liquadd, ProCentra, [G]):  5 mg/5 mL.
+Dosage Guidance:
+ /uni2981ADHD (IR and ER):
+ –Adults and children ≥6 years: Start 5 mg QAM, ↑ by 5 mg/day at weekly intervals to max 60 mg/day, though doses 
+≥40 mg/day are rarely more eﬀective. Divide IR dose QD–TID.
+ –Children 3−5 years: Start 2.5 mg QAM, ↑ by 2.5 mg/day weekly to max 60 mg/day, though doses >40 mg/day are 
+rarely more eﬀective. Divide IR dose QD–TID.
+ /uni2981Narcolepsy (IR and ER):
+ –Start 10 mg QAM, ↑ by 10 mg/day weekly to max 60 mg/day. Divide IR dose QD–TID.
+Monitoring:  ECG if history of cardiac disease.
+Cost:  IR/ER: $ (Zenzedi: $$; ProCentra: $$$$)
+Side Eﬀects:
+ /uni2981Most common: Abdominal pain, anorexia, nausea, tics, insomnia, tachycardia, headache.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+ /uni2981Pregnancy/breastfeeding: Limited data in pregnancy; likely safe in breastfeeding.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily through CYP2D6 (minor) and glucuronidation; t ½: 12 hours.
+ /uni2981Avoid use with MAOIs, antacids.
+Clinical Pearls:
+ /uni2981Dextroamphetamine is the more potent d-isomer of amphetamine; it has potentially less peripheral eﬀects (eg, 
+motor tics) than a racemic mix (eg, mixed amphetamine salts like Adderall, amphetamine, or methamphetamine).
+ /uni2981IR tablets and oral solution: Doses can be given at intervals of four to six hours.
+ /uni2981Dextroamphetamine is the only stimulant, other than Adderall IR, approved for children <6 years (approved for 
+children ≥3 years).
+ /uni2981The newer Zenzedi brand oﬀers more dosing /f_lexibility options, but it is more expensive than generic IR tablets.
+ /uni2981Also available as D,L racemic mixture of amphetamine as Evekeo tablets, Adzenys XR-ODT, and Dyanavel XR oral 
+suspension (see amphetamine fact sheet).
+Fun Fact:
+Dexys Midnight Runners, the British band famous for its song “Come On Eileen” (1982), derived their name from 
+Dexedrine—“Dexys” after the drug’s name and “Midnight Runners” in reference to the energy it provides.
+
+------------------------------------------------------------------- 
+DEXTROAMPHETAMINE  TRANSDERMAL  (Xelstrym) Fact Sheet
+Bottom Line:
+Like Daytrana, Xelstrym is helpful for those who, for whatever reason, cannot use any of the wide variety of oral 
+stimulant preparations. Otherwise, we don’t recommend it due to high cost, lag time for onset of eﬀect, and the side 
+eﬀect of rash, which is pretty common and unpleasant.
+FDA Indications:
+ADHD  (adult and children ≥6 years).
+Dosage Forms:
+Transdermal patch:  4.5 mg, 9 mg, 13.5 mg, 18 mg/9 hour.
+Dosage Guidance:
+ /uni2981Adults: Start 9 mg/9 hour patch QAM (for initial therapy or for patients switching from other amphetamine 
+preparations, regardless of dose). Titrate in increments of 4.5 mg weekly up to a maximum 18 mg QAM.
+ /uni2981Children: Start 4.5 mg/9 hour patch QAM; titrate in weekly increments of 4.5 mg up to max 18 mg QAM.
+Monitoring:  ECG if history of cardiac disease.
+Cost:  $$$$
+Side Eﬀects:
+ /uni2981Most common: Decreased appetite, headache, insomnia, tic, abdominal pain, vomiting, nausea, irritability, increased 
+BP and pulse. Application site reactions and sensitization may occur.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+ /uni2981Pregnancy/breastfeeding: Limited data in pregnancy; likely safe in breastfeeding.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily through CYP2D6 (minor) and glucuronidation; t ½: 11.5 hours (6.4 hours in children).
+ /uni2981Avoid use with MAOIs, antacids.
+Clinical Pearls:
+ /uni2981Apply to hip, upper arm, chest, upper back, or /f_lank two hours before an eﬀect is needed and remove nine hours 
+after application (drug eﬀects may persist for /f_ive hours after removal). Increase dose at weekly intervals by using 
+next higher dose system. May be removed sooner if shorter duration is desired or if late-day side eﬀects occur. 
+Rotate application sites.
+ /uni2981Clinical eﬀect usually seen in two hours and lasts approximately 12 hours.
+ /uni2981Exposure of application site to a heat source (eg, hair dryer, heating pad, electric blanket) may increase the rate and 
+amount of drug absorbed.
+ /uni2981For localized skin reactions (redness at site), use cortisone cream (1%–2%). For more severe or systemic reactions, 
+discontinue patch.
+Fun Fact:
+While Daytrana is approved for pediatric use only, Xelstrym is also approved for use in adults.
+ADHD Medications
+------------------------------------------------------------------- 
+
+25GUANFACINE  (Intuniv, Tenex) Fact Sheet [G]
+Bottom Line:
+Guanfacine is an alpha-2 agonist that has no abuse potential, does not worsen tics, and does not cause insomnia. 
+However, it is less eﬀective than stimulants and has a delayed onset of eﬀect (two to four weeks). Guanfacine ER is 
+now available in generic and is easier to use than IR.
+FDA Indications:
+ADHD  (children ages 6–17), as monotherapy or adjunctive therapy to stimulants (not approved for ADHD in adults).
+Oﬀ-Label Uses:
+Conduct disorder; Tourette’s and motor tics; pervasive developmental disorders; migraine prophylaxis; opioid 
+withdrawal.
+Dosage Forms:
+ /uni2981IR tablets (Tenex, [G]):  1 mg, 2 mg.
+ /uni2981ER tablets (Intuniv, [G]):  1 mg, 2 mg, 3 mg, 4 mg.
+Dosage Guidance:
+ /uni2981IR dosing depends on weight:
+ –27–40.5 kg (55–90 lbs): Start 0.5 mg QHS, ↑ by 0.5 mg/day at weekly intervals up to 1.5 mg/day; may ↑ to 2 mg/
+day after two weeks; max 2 mg/day in two to four divided doses.
+ –40.5–45 kg (90–99 lbs): Start 0.5 mg QHS, ↑ by 0.5 mg/day at weekly intervals; max 1 mg per dose, 3 mg/day.
+ –>45 kg ( >99 lbs): Start 1 mg QHS, ↑ by 1 mg/day at weekly intervals up to 3 mg/day; may ↑ to 4 mg/day after 2 
+weeks; max 1 mg per dose, 4 mg/day.
+ /uni2981ER: Start 1 mg QHS, ↑ by 1 mg/day at weekly intervals; max 4 mg/day. Alternative: 0.05–0.12 mg/kg QD or QHS; max 
+4 mg/day. Doses up to 7 mg/day ER studied as monotherapy in adolescents.
+Monitoring:  Blood pressure.
+Cost:  $
+Side Eﬀects:
+ /uni2981Most common: Dry mouth, somnolence, dizziness, constipation, fatigue, headache.
+ /uni2981Serious but rare: Hypotension, syncope, orthostasis.
+ /uni2981Pregnancy/breastfeeding: Not well studied.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Centrally acting, selective alpha-2 adrenergic agonist.
+ /uni2981Metabolized primarily through CYP3A4; t ½: 13–14 hours in children (16–18 hours in adults).
+ /uni2981Avoid use with MAOIs. Caution with 3A4 inhibitors (eg, clarithromycin, /f_luvoxamine) and inducers (eg, St. John’s 
+wort, carbamazepine).
+Clinical Pearls:
+ /uni2981Not a controlled substance.
+ /uni2981Guanfacine IR and ER are not interchangeable on a mg:mg basis. When switching from one formulation to the other, 
+taper and re-titrate.
+ /uni2981Guanfacine tends to be less sedating than clonidine, another alpha agonist.
+ /uni2981If patient misses two or more consecutive doses, consider repeating titration.
+ /uni2981ER tablets should not be taken with a high-fat meal due to increased medication exposure.
+ /uni2981Minimize side eﬀects, especially somnolence, by administering at bedtime.
+ /uni2981Monitor blood pressure, especially during initial dosing titration.
+ /uni2981Risk of nervousness, anxiety, and possibly rebound hypertension two to four days after abrupt discontinuation. 
+Taper dose in 1 mg/day decrements, every three to seven days.
+Fun Fact:
+Some prescribers have taken advantage of guanfacine’s sympatholytic properties for the treatment of nightmares and 
+dissociative symptoms in PTSD.
+------------------------------------------------------------------- 
+LISDEXAMFETAMINE  (Vyvanse) Fact Sheet [G]
+Bottom Line:
+Vyvanse may have a gentler, “smoother” side eﬀect pro/f_ile than other amphetamines, and it probably has a lower risk 
+of diversion or abuse. However, its high cost even in generic form means insurance companies don’t like to pay for it 
+without prior authorization.
+FDA Indications:
+ADHD  (adults and children ≥6 years); binge eating disorder  (BED).
+Oﬀ-Label Uses:
+Narcolepsy; obesity; treatment-resistant depression.
+Dosage Forms:
+ /uni2981Capsules:  10 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg, 70 mg.
+ /uni2981Chewtabs:  10 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg.
+Dosage Guidance:
+ /uni2981ADHD (adults and children ≥6 years): Start 30 mg QAM, ↑ by 10–20 mg/day at weekly intervals. Target lowest 
+eﬀective dose; max 70 mg/day.
+ /uni2981BED: Start 30 mg QAM, ↑ by 20 mg/day at weekly intervals to target 50 mg/day; max 70 mg/day.
+Monitoring:  ECG if history of cardiac disease.
+Cost:  $$$
+Side Eﬀects:
+ /uni2981Most common: Headache, insomnia, anorexia, abdominal pain, irritability, agitation, tics, decreased appetite, 
+increased heart rate, jitteriness, anxiety.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+ /uni2981Pregnancy/breastfeeding: Limited data in pregnancy; likely safe in breastfeeding.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily through non-CYP-mediated hepatic and/or intestinal metabolism; t ½: lisdexamfetamine 
+(inactive prodrug) <1 hour; dextroamphetamine (active metabolite) 12 hours. Dextroamphetamine metabolized by 
+CYP2D6.
+ /uni2981Avoid use with MAOIs and antacids. Caution with antihypertensives (decreased eﬃcacy of antihypertensive). 
+Caution with 2D6 inhibitors, which may increase stimulant eﬀects.
+Clinical Pearls:
+ /uni2981Lisdexamfetamine is dextroamphetamine with the chemical lysine bound to it, which renders it inactive. It remains 
+inactive until GI enzymes cleave oﬀ lysine and convert it to active dextroamphetamine. This means that drug 
+abusers can’t get high by snorting or injecting it.
+ /uni2981Anecdotally, Vyvanse has a more gradual onset and oﬀset than other stimulants, and it may cause fewer side eﬀects 
+than other amphetamines.
+ /uni2981Taking with food decreases the eﬀect slightly and delays peak levels by an hour. If patients feel it’s not “kicking in” 
+fast enough, have them take it earlier or on an empty stomach.
+ /uni2981Lisdexamfetamine 70 mg is equivalent to 30 mg of mixed amphetamine salts (Adderall).
+ /uni2981While indicated for BED, it is not approved for use as a weight loss or anti-obesity agent.
+Fun Fact:
+The manufacturer of Vyvanse pursued an indication as an add-on medication for depression, but disappointing results 
+in clinical trials put an end to this eﬀort.
+ADHD Medications
+------------------------------------------------------------------- 
+27METHAMPHETAMINE  (Desoxyn) Fact Sheet [G]
+Bottom Line:
+Methamphetamine is highly addictive when used in its crystal form (“crystal meth”), because it causes an immediate 
+and intense high when snorted or smoked. Its use is generally not recommended. Watch the television show 
+“Breaking Bad” if you’re not convinced!
+FDA Indications:
+ADHD  (children ≥6 years); obesity (adults and adolescents ≥12 years).
+Dosage Forms:
+Tablets (G):  5 mg.
+Dosage Guidance:
+ADHD (adults and children ≥6 years): Start 5 mg QAM–BID, ↑ by 5 mg/day at weekly intervals to max 20 mg/day, 
+divided BID.
+Monitoring:  ECG if history of cardiac disease.
+Cost:  $$$$
+Side Eﬀects:
+ /uni2981Most common: Anorexia, tachycardia, dizziness, insomnia, tremor, tics, restlessness, headache, constipation 
+(decreased GI motility). Dental complications, such as poor dental hygiene, diﬀuse cavities, bruxism, and tooth wear, 
+may develop with abuse.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+ /uni2981Pregnancy/breastfeeding: Limited data in pregnancy; likely safe in breastfeeding.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily through CYP2D6 to active metabolite (amphetamine); t ½: 4–5 hours.
+ /uni2981Avoid use with MAOIs and antacids. Caution with 2D6 inhibitors, which may increase stimulant eﬀects.
+Clinical Pearls:
+ /uni2981High risk of abuse.
+ /uni2981Not widely used (DEA reports that there were only 8,000 prescriptions written in 2021). When prescribed for obesity, 
+the recommendation is for short-term use only (ie, a few weeks) and as an adjunct to caloric restriction due to its 
+high addiction and diversion potential.
+ /uni2981Methamphetamine’s CNS-stimulating eﬀect is approximately equal to or greater than that of amphetamine but less 
+than that of dextroamphetamine; less blood pressure elevation than with amphetamine.
+Fun Facts:
+Methamphetamine was originally used in nasal decongestants and bronchial inhalers (the levo-isomer is still utilized 
+for these indications, sold over the counter as Vicks VapoInhaler, Equaline, and generics).
+------------------------------------------------------------------- 
+METHYLPHENIDATE  IR (Methylin, Ritalin) Fact Sheet [G]
+Bottom Line:
+Methylphenidate has a better side eﬀect pro/f_ile and somewhat lower abuse potential than amphetamines. However, 
+patients often prefer the “kick” they get from Adderall.
+FDA Indications:
+ADHD  (adults and children ≥6 years); narcolepsy .
+Oﬀ-Label Uses:
+Obesity; treatment-resistant depression.
+Dosage Forms:
+ /uni2981Tablets (Ritalin, [G]):  5 mg, 10 mg, 20 mg.
+ /uni2981Chewable tablets (Methylin CT, [G]):  2.5 mg, 5 mg, 10 mg.
+ /uni2981Oral solution (Methylin, [G]):  5 mg/5 mL, 10 mg/5 mL.
+Dosage Guidance:
+ /uni2981ADHD:
+ –Adults: Start 5–10 mg BID, ↑ by 10 mg/day at weekly intervals to max 60 mg/day.
+ –Children ≥6 years: Start 0.3 mg/kg BID or 2.5–5 mg BID before breakfast and lunch, increase by 0.1 mg/kg/dose or 
+5–10 mg/day at weekly intervals to a max of 2 mg/kg/day or 60 mg/day.
+ /uni2981Narcolepsy: Same dosing as ADHD.
+Monitoring:  ECG if history of cardiac disease.
+Cost:  $; chewable tabs: $$$
+Side Eﬀects:
+ /uni2981Most common: Insomnia, headache, nervousness, abdominal pain, nausea, vomiting, anorexia, weight loss, aﬀect 
+lability, tics.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+ /uni2981Pregnancy/breastfeeding: Limited data in pregnancy; likely safe in breastfeeding.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Hepatic metabolism via carboxylesterase CES1A1, not CYP450 isoenzymes; t ½: 2–4 hours.
+ /uni2981Avoid use with MAOIs, antacids.
+Clinical Pearls:
+ /uni2981Methylphenidate generally causes fewer side eﬀects than amphetamine preparations—patients are less likely to 
+report feeling “wired.”
+ /uni2981While all stimulants may cause tics, a Cochrane review of eight randomized trials showed that methylphenidate did 
+not worsen tics in children with ADHD and a tic disorder; in some cases it even improved tics.
+ /uni2981Methylin chewable tablets: Administer with at least eight ounces of water or other /f_luid.
+Fun Fact:
+Methylphenidate was synthesized by Ciba (now Novartis) chemist Leandro Panizzon. His wife, Marguerite, had low 
+blood pressure and would take the stimulant before playing tennis. He named the substance “Ritaline” (yes, with the 
+“e” on the end) after his wife’s nickname, Rita.
+ADHD Medications
+------------------------------------------------------------------- 
+29METHYLPHENIDATE ER  (Concerta, Ritalin 
+SR and LA, others) Fact Sheet [G]
+Bottom Line:
+There are many longer-acting methylphenidate preparations. Two good options are Concerta and Ritalin LA, both of 
+which are now available generically.
+FDA Indications:
+ADHD  (adults and children ≥6 years); narcolepsy .
+Oﬀ-Label Uses:
+Obesity; treatment-resistant depression.
+Dosage Forms  (more commonly used):
+ /uni2981Tablets
+ –Ritalin SR, Metadate ER, Methylin ER, (G):  10 mg, 20 mg.
+ /uni2981Capsules
+ –Concerta, Relexxii, (G):  18 mg, 27 mg, 36 mg, 54 mg, 63 mg, 72 mg (22% IR/78% ER).
+ –Ritalin LA, (G):  10 mg, 20 mg, 30 mg, 40 mg, 60 mg (50% IR/50% ER).
+ –Metadate CD, (G):  10 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg (30% IR/70% ER).
+ –Aptensio XR:  10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 50 mg, 60 mg (40% IR/60% ER).
+ –Adhansia XR:  25 mg, 35 mg, 45 mg, 55 mg, 70 mg, 85 mg (20% IR/80% ER).
+ –Jornay PM:  20 mg, 40 mg, 60 mg, 80 mg, 100 mg (onset delayed 10 hours).
+ /uni2981Oral solution (Quillivant XR):  25 mg/5 mL (20% IR/80% ER).
+ /uni2981Chewable tablets (Quillichew ER):  20 mg, 30 mg (scored), 40 mg (scored) (30% IR/70% ER).
+ /uni2981Orally disintegrating tablets (Cotempla XR-ODT):  8.6 mg, 17.3 mg, 25.9 mg (25% IR/75% ER).
+Dosage Guidance:
+ /uni2981Intermediate-acting (Ritalin SR, Metadate ER, Methylin ER):
+ –Titrate to eﬀective daily dose with IR, then switch to equivalent eight-hour SR or ER dose QAM–BID.
+ /uni2981Long-acting (Aptensio XR, Metadate CD, Ritalin LA, Quillivant XR, Quillichew ER):
+ –Start 10–20 mg QAM, ↑ by 10−20 mg/day at weekly intervals; max 60 mg/day.
+ /uni2981Long-acting (Adhansia XR):
+ –Start 25 mg QAM, ↑ by 10–15 mg/day at weekly intervals; max 70 mg/day (children) and 85 mg/day (adults).
+ /uni2981Long-acting (Cotempla XR-ODT):
+ –Start 17.3 mg QAM, ↑ by 8.6–17.3 mg/day at weekly intervals; max 51.8 mg/day.
+ –8.6 mg, 17.3 mg, 25.9 mg equivalent to 10 mg, 20 mg, 30 mg of other methylphenidate formulations, respectively.
+ /uni2981Long-acting (Concerta, Relexxii):
+ –Start 18–36 mg QAM, ↑ by 18 mg/day at weekly intervals; max 72 mg/day.
+ –Children ≥6 years: Start 18 mg QAM, ↑ by 18 mg/day in weekly intervals to max 54 mg/day (ages 6–12) or 72 mg/
+day (age 13+).
+ /uni2981Jornay PM:
+ –Start 20 mg daily in the evening and increase by 20 mg/day up to maximum of 100 mg/day. Adjust timing 
+between 6:30 and 9:30 p.m.
+ /uni2981Narcolepsy: Start 10–20 mg ER QAM, ↑ by 10 mg/day at weekly intervals; max 60 mg/day.
+Monitoring:  ECG if history of cardiac disease.
+Cost:  $; Concerta: $$$; Aptensio XR, Cotempla XR-ODT, Jornay PM, Quillivant XR, Quillichew ER, Relexxii: $$$$
+Side Eﬀects and Mechanism, Pharmacokinetics, and Drug Interactions:
+See methylphenidate IR fact sheet.
+Clinical Pearls:
+ /uni2981ER capsules contain a mixture of 30% IR and 70% ER beads. Aptensio XR  contains a mixture of 40% IR and 60% ER 
+beads, whereas Adhansia XR  contains 20% IR and 80% ER. Ritalin LA  and its generic ER capsules are a combination 
+of 50% IR and 50% DR beads. These products mimic BID dosing of IR. Cotempla XR-ODT delivers a mixture of 25% 
+IR and 75% ER in an orally disintegrating extended-release formulation. Jornay PM  is dosed in the evening; if early-
+morning awakening occurs, dose earlier in evening.
+ /uni2981Concerta is based on the OROS osmotic delivery system (also used for Invega). 22% of the dose is immediate (with 
+eﬀects in one to two hours) and 78% is delayed.
+------------------------------------------------------------------- 
+METHYLPHENIDATE TRANSDERMAL  (Daytrana) Fact Sheet [G]
+Bottom Line:
+Daytrana is helpful for kids who, for whatever reason, cannot use any of the wide variety of oral stimulant 
+preparations. Otherwise, we don’t recommend it due to high cost, lag time for onset of eﬀect, and the side eﬀect of 
+rash, which is pretty common and unpleasant.
+FDA Indications:
+ADHD  (children ≥6 years).
+Dosage Forms:
+Transdermal patch (G):  10 mg, 15 mg, 20 mg, 30 mg/9 hour.
+Dosage Guidance:
+Start 10 mg/9 hour patch QAM (for initial therapy or for patients switching from other methylphenidate preparations, 
+regardless of dose). Apply to hip two hours before an eﬀect is needed and remove nine hours after application (drug 
+eﬀects may persist for /f_ive hours after removal). Increase dose at weekly intervals by using next higher dose system. 
+May be removed sooner if shorter duration is desired or if late-day side eﬀects occur. Rotate application sites. Max 
+30/uni00A0mg QD.
+Monitoring:  ECG if history of cardiac disease.
+Cost:  $$$; Daytrana: $$$$
+Side Eﬀects:
+ /uni2981Most common: Headache, insomnia, irritability, decreased appetite, anorexia, nausea, tics, application site reaction 
+(10%–40% incidence in children).
+ /uni2981Serious but rare: Allergic contact dermatitis/sensitization, characterized by intense local reactions (eg, edema, 
+papules) that may spread beyond patch site; sensitization may subsequently manifest systemically with other routes 
+of methylphenidate administration.
+ /uni2981Pregnancy/breastfeeding: Limited data in pregnancy; likely safe in breastfeeding.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Hepatic metabolism via carboxylesterase CES1A1, not CYP450 isoenzymes; t ½: 3–4 hours.
+ /uni2981Avoid use with MAOIs, antacids.
+Clinical Pearls:
+ /uni2981Apply patch to clean, dry area of the hip; don’t apply to waistline or to areas under tight clothes, as it may rub 
+oﬀ. Alternate sites daily (eg, opposite hip). Absorption not aﬀected by perspiration. Remove after nine hours. If 
+dislodged, replace with a new patch but remove within the nine-hour total wear time.
+ /uni2981Clinical eﬀect usually seen in two hours and lasts approximately 12 hours.
+ /uni2981Exposure of application site to a heat source (eg, hair dryer, heating pad, electric blanket) may increase the amount 
+of drug absorbed.
+ /uni2981For localized skin reactions (redness at site), use cortisone cream (1%–2%). For more severe or systemic reactions, 
+discontinue patch.
+ /uni2981In June 2015, the FDA added a warning that Daytrana could cause chemical leukoderma, a permanent loss of skin 
+color. These reactions are irreversible and not harmful but can be dis/f_iguring. Instruct patients to contact their 
+physician if they notice skin color changes or lightening of skin areas; in such cases an alternative medication should 
+be considered.
+Fun Fact:
+Since 2006, Shire Pharmaceuticals has issued at least 10 recalls of Daytrana patches because users have had diﬃculty 
+removing the protective cover from the patch. Recall costs have reached into the millions.
+ADHD Medications
+------------------------------------------------------------------- 
+31MIXED AMPHETAMINE SALTS  (Adderall, 
+Adderall XR, Mydayis) Fact Sheet [G]
+Bottom Line:
+Adderall contains 75% dextroamphetamine and 25% levoamphetamine. This ratio of amphetamine isomers is 
+eﬀective but is probably the most abused and diverted of all prescription stimulants.
+FDA Indications:
+ADHD  (adults and children ≥3 years for IR, ≥6 years for XR, ≥13 years for Mydayis); narcolepsy  (adults and children ≥6 
+years).
+Oﬀ-Label Uses:
+Obesity; treatment-resistant depression.
+Dosage Forms:
+ /uni2981Tablets (G):  5 mg, 7.5 mg, 10 mg, 12.5 mg, 15 mg, 20 mg, 30 mg.
+ /uni2981ER capsules (G):  5 mg, 10 mg, 15 mg, 20 mg, 25 mg, 30 mg.
+ /uni2981ER capsules (Mydayis):  12.5 mg, 25 mg, 37.5 mg, 50 mg.
+Dosage Guidance:
+ /uni2981ADHD:
+ –Rule of thumb for both preparations: Initial dose should be 0.5 mg/kg, but shoot for a target dose 
+of 1.0–1.2 mg/kg.
+ –Adults:
+ /uni25FDIR: Start 5 QAM–BID, max 40 mg/day divided BID.
+ /uni25FDER: Start 20 mg QAM, increase to max 60 mg/day QAM. For Mydayis, start 12.5 mg QAM, increase in increments 
+of 12.5 mg/day weekly, to max 50 mg/day.
+ –Children and adolescents:
+ /uni25FDIR: Start 2.5–5 mg BID, max 40 mg/day divided BID.
+ /uni25FDER: Start 5–10 mg QAM, increase gradually to max 30 mg/day, or 40 mg/day QAM in adolescents. For Mydayis 
+(adolescents ≥13 years), start 12.5 mg QAM, increase in increments of 12.5 mg/day weekly, to max 25 mg/day.
+ /uni2981Narcolepsy: Start 10 mg QAM, increase by 10 mg/day at weekly increments; max 60 mg/day.
+Monitoring:  ECG if history of cardiac disease.
+Cost:  IR/ER: $; Mydayis: $$$$
+Side Eﬀects:
+ /uni2981Most common: Insomnia, headache, decreased appetite, abdominal pain, weight loss, agitation.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+ /uni2981Pregnancy/breastfeeding: Limited data in pregnancy; likely safe in breastfeeding.
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily through CYP2D6; t ½: 9–14 hours. Duration of action: 6–8 hours (IR), 8–12 hours (XR).
+ /uni2981Avoid use with MAOIs, antacids. Caution with 2D6 inhibitors, which may increase stimulant eﬀects.
+Clinical Pearls:
+ /uni2981Each dose contains a mixture of amphetamine salts, resulting in a 75:25 ratio of dextro- and levo-isomers of 
+amphetamine.
+ /uni2981When converting from IR to ER, use the same total daily dose, given QAM.
+ /uni2981Adderall may provide more of a “kick” than methylphenidate preparations. Roughly twice as potent (per mg) as 
+methylphenidate.
+ /uni2981Mydayis is formulated with pH-dependent drug-releasing beads, with IR and DR beads that release drug at pH 5.5 
+and 7.0. Duration of eﬀect may be up to 16 hours.
+ /uni2981Dextroamphetamine and mixed amphetamine salts are the only stimulants approved for children <6 years 
+(approved for children ≥3 years), with the exception of Mydayis, which causes very high rates of side eﬀects 
+(insomnia, reduced appetite) in children <13 years and should only be used in children ≥13 years.
+Fun Fact:
+Was brie/f_ly pulled from the market in Canada in 2005 because of cardiac concerns.
+------------------------------------------------------------------- 
+VILOXAZINE  XR (Qelbree) Fact Sheet
+Bottom Line:
+Like the /f_irst norepinephrine reuptake inhibitor for ADHD, atomoxetine, viloxazine has no abuse potential and is less 
+likely than stimulants to cause insomnia, anxiety, or tics. However, it is generally less eﬀective than stimulants and 
+takes longer to work. It’s unclear if it has any advantage, and unlike atomoxetine, there’s no option for a cheaper 
+generic.
+FDA Indications:
+ADHD  (adults, children ≥6 years).
+Oﬀ-Label Uses:
+Treatment-resistant depression.
+Dosage Forms:
+ER capsules:  100 mg, 150 mg, 200 mg.
+Dosage Guidance:
+ /uni2981Children 6–11: Start 100 mg QD, ↑ by 100 mg/day at weekly intervals to max 400 mg QD.
+ /uni2981Children 12–17: Start 200 mg QD, ↑ by 200 mg after one week to max 400 mg QD.
+ /uni2981Adults: Start 200 mg QD, ↑ by 200 mg/day at weekly intervals to max 600 mg QD.
+Monitoring:  Baseline renal function.
+Cost:  $$$$
+Side Eﬀects:
+ /uni2981Most common: Somnolence, decreased appetite, fatigue, nausea, vomiting, insomnia, irritability.
+ /uni2981Serious but rare: Class warning for suicidal ideation in children and teens. Mania reported. May increase pulse and 
+BP .
+ /uni2981Pregnancy/breastfeeding: Not recommended due to lack of human data and concerning animal data..
+Mechanism, Pharmacokinetics, and Drug Interactions:
+ /uni2981Selective norepinephrine reuptake inhibitor (NRI).
+ /uni2981Metabolized primarily via CYP2D6, UGT1A9, UGTB15; t ½: 7 hours.
+ /uni2981Avoid use with MAOIs. Strong 1A2 inhibitor; exercise caution with 1A2 substrates with narrow therapeutic index (eg, 
+clozapine, duloxetine, ramelteon, tasimelteon, theophylline, tizanidine) as combination may increase side eﬀects of 
+substrate.
+Clinical Pearls:
+ /uni2981ER capsules, so do not cut, crush, or chew; can open and sprinkle contents in applesauce or pudding.
+ /uni2981Adjust dose in severe renal impairment (eGFR <30 mL/min); max 200 mg/day.
+ /uni2981Data from one of four studies suggest viloxazine may work a bit faster than atomoxetine (week one vs week three), 
+but this /f_inding is not based on head-to-head data and it’s hard to know whether it is clinically signi/f_icant.
+Fun Fact:
+Viloxazine has been studied for various indications since the 1970s and originally received an FDA orphan drug 
+designation for narcolepsy.
+------------------------------------------------------------------- 
+
+ADHD Medications(CHILD MEDICATION)
+
+Generally, in treating kids with ADHD, you should start with psychostimulants, since they are the most e ﬀective options. 
+Second-line agents include alpha-agonists, followed by atomoxetine, viloxazine, and bupropion.
+------------------------------------------------------------------- 
+STIMULANT RECOMMENDATIONS (CHILD MEDICATION)
+When choosing a stimulant, the /f_irst decision is between an amphetamine or methylphenidate preparation. More recent 
+data have suggested that, based on safety and e ﬃcacy, methylphenidates are a better choice in kids and adolescents 
+whereas amphetamine-class agents are better in adults. Yet, even in adults, we generally recommend going with a 
+methylphenidate preparation /f_irst based on lower side e ﬀect and misuse potential. The second decision is choosing 
+between a long-acting or short-acting stimulant.
+For kids who don’t like swallowing pills, there are various options. Some long-acting stimulants can be opened and 
+sprinkled on food. There are also short- and long-acting liquid, chewable, and disintegrating brand-name options—though 
+they are expensive and often require pre-authorization. Finally, another option for the pill-phobics is the Daytrana or 
+Xelstrym patch.
+When initiating a trial of stimulant medication, titrating the dose on a weekly basis optimizes the response e ﬃciently, 
+with the added bene /f_it of limiting the use of additional medications with their associated side e ﬀects. While valproate and 
+risperidone have been demonstrated to be e ﬀective for aggression with ADHD, you will rarely need them if you prioritize 
+stimulant titration.
+The Case for Long-Acting Stimulants
+ /uni2981More practical: It’s easier to take a single dose that lasts through the duration of a school day.
+ /uni2981Addresses acute tachyphylaxis: Response to stimulants diminishes rapidly, but most newer long-acting stimulants release 
+an increasing amount of drug over the /uni00A0dose’s six- to 12-hour course, which most people need for the medication to be 
+eﬀective. This avoids the need for multiple short-acting dosage bursts to maintain continued response.
+ /uni2981Decreased stimulant rebound: People sensitive to rebound irritability or worsening of ADHD symptoms often report a 
+more attenuated rebound with long-acting stimulants.
+The Case for Short-Acting Stimulants
+ /uni2981For situations where a child only requires a few hours of e ﬀect, such as a half day of school, an afternoon of completing 
+homework, or a weekend activity.
+ /uni2981Minimizes appetite suppression during meals.
+ /uni2981May be less likely to interfere with sleep.
+
+------------------------------------------------------------------- 
+DOSE EQUIVALENTS (CHILD MEDICATION)
+Some kids may need to try di ﬀerent stimulants, or stimulant formulations, before settling on the one that works best for 
+them. The dose equivalents are, luckily, fairly easy to remember.
+1. From one amphetamine to another amphetamine
+ /uni2981With the exception of Vyvanse, all amphetamines, including Adderall IR and XR, are roughly equivalent in potency. For 
+example, if a child is taking Dexedrine /uni00A010/uni00A0mg TID, you can switch this to Adderall /uni00A015 mg BID or Adderall XR /uni00A030/uni00A0mg QD. 
+That said, some people believe that Dexedrine, being /uni00A0100% dextroamphetamine, might be more potent than Adderall, 
+which is /uni00A075% d-amphetamine and /uni00A025% l-amphetamine (eg, Dexedrine /uni00A030/uni00A0mg/day may be closer to /uni00A040/uni00A0mg/day of 
+Adderall). In reality, the e ﬀect is likely negligible in most people.
+ /uni2981Vyvanse is composed of both lysine and amphetamine, with amphetamine making up only about /uni00A030% of the drug. This 
+means that Vyvanse is much less potent than straight Dexedrine. So when switching from another amphetamine to 
+Vyvanse, you have to at least double the dose,  and sometimes more.
+2. From one methylphenidate to another methylphenidate
+ /uni2981With the exception of Concerta and Focalin, all methylphenidate preparations are roughly equivalent in potency.
+ /uni2981Concerta, because of its complex delivery system, delivers less methylphenidate than implied by the mg amount 
+you prescribe. The usual conversion percentage used is /uni00A083%, meaning that the body sees /uni00A083% of Concerta in 
+methylphenidate equivalents. Thus, Concerta /uni00A018/uni00A0mg is equivalent to methylphenidate /uni00A015/uni00A0mg, 36 /uni00A0mg is equivalent 
+to/uni00A030/uni00A0mg, and so on.
+ /uni2981Focalin is the dextro-isomer of methylphenidate, which is twice as potent as methylphenidate. Thus, use about half the 
+dose when using Focalin.
+3. From a methylphenidate to an amphetamine (or vice versa)
+ /uni2981Methylphenidate is roughly half as potent as amphetamine, so Ritalin /uni00A010/uni00A0mg = Dexedrine /uni00A05/uni00A0mg, etc. Consistent with 
+this equivalency, child psychiatrists often dose methylphenidate at /uni00A01/uni00A0mg/kg/immediate-release dose, whereas they 
+dose amphetamine at /uni00A00.5/uni00A0mg/kg. Conversely, if you’re switching from Dexedrine to Ritalin, you would need to double 
+the dosage.
+4. From an oral methylphenidate to the methylphenidate patch (Daytrana)
+ /uni2981According to a clinical trial of kids switched from various versions of long-acting methylphenidate to the patch, you 
+should dose the patch at about half the dose of the oral medication.
+5. From an oral amphetamine to the dextroamphetamine patch (Xelstrym)
+ /uni2981As Xelstrym is a newer formulation, the recommendation is to titrate the patch dose from the usual starting dose 
+rather than approximate an equivalent substitution dose.
+------------------------------------------------------------------- 
+HOW TO SWITCH (CHILD MEDICATION)
+Once you’ve determined the dose equivalence, the actual switching is easy. Don’t cross-taper; just have your patient take 
+the last dose of stimulant A on day /uni00A01/uni00A0and start stimulant B on day /uni00A02. To be prudent, start the new stimulant at a somewhat 
+lower dose than the calculation you arrived at via the equivalent dose guideline. Those equivalencies are based on averages 
+and may not apply to a given individual.
+
+------------------------------------------------------------------- 
+HOW TO STOP (CHILD MEDICATION)
+When discontinuing stimulant medications, no taper is required; the medications can just be stopped given their fast action 
+and metabolism. The same is not true for the longer-acting non-stimulant options—especially alpha-agonists, which should 
+be tapered to avoid rebound hypertension. The bigger question is when  to stop. About a third of young patients seem to 
+do OK letting go of stimulants in their late teens or early 20s. Others stop due to side e ﬀects, perhaps trying non-stimulant 
+options.
+------------------------------------------------------------------- 
+NON -STIMULANT RECOMMENDATIONS (CHILD MEDICATION)
+Although their e ﬃcacy cannot compare to stimulants, atomoxetine or viloxazine may be an appropriate /f_irst step when 
+you’re concerned about diversion or substance misuse. For children with severe tic disorders, guanfacine and clonidine may 
+be indicated with the added bene /f_it of targeting the tics. Alpha-agonists are also helpful for addressing the frequent sleep 
+diﬃculties found in children with ADHD. Patients with comorbid depression or tobacco use may bene /f_it from bupropion. 
+A handful of clinical trials suggest that moda /f_inil may be an option when stimulant response is limited. Regardless of your 
+choice, don’t expect the robust and rapid response frequently seen with stimulants.
+Some studies have demonstrated small improvements in ADHD symptoms with higher doses of omega-3, speci /f_ically 
+eicosapentaenoic acid (EPA), as a supplement; however, this has not been consistently supported in meta-analyses. Limited 
+evidence also exists for ginkgo biloba and sa ﬀron in reducing ADHD symptoms. While these should not replace the use of a 
+stimulant or non-stimulant medication, they may be useful as an adjunct and for families who are not currently interested in 
+medication options.
+Lastly, the FDA approved a medical device, the Monarch external trigeminal nerve stimulation (eTNS) system, for children 
+7–12 years of age based o ﬀ a single small four-week study. The cost remains signi /f_icant for an option that lacks solid data. 
+There is also an FDA-approved videogame called EndeavorRx for treatment of ADHD. Wonders never cease.
+
+------------------------------------------------------------------- 
+STIMULANT SIDE EFFECTS AND CLASS WARNINGS (CHILD MEDICATION)
+ /uni2981The most common side e ﬀects include appetite suppression and insomnia. With long-term use, due to chronic appetite 
+suppression and acute growth hormone inhibition, some literature has reported an average decrease of half an inch 
+in expected height, while several studies have not found signi /f_icant di ﬀerences with longer-term follow-up or “drug 
+holidays. ” Despite this, drug holidays are still useful on weekends and school breaks for patients who struggle with 
+appropriate weight gain, assuming their behavioral functioning remains manageable without medication. Taking 
+stimulant medication with or after breakfast, providing snacks throughout the day, and scheduling a high-caloric evening 
+snack when appetite has bounced back can help to manage appetite suppression, related irritability, and weight loss. 
+High-caloric and protein milkshakes or smoothies with some combination of Ensure, whole milk, yogurt, milk powder, 
+fruit, peanut butter, and ice cream can be on the menu. Cyproheptadine is sometimes used, but studies are limited. 
+Additionally, stimulants should be avoided in patients with anorexia nervosa given their GI and anorectic side e ﬀects.
+ /uni2981Stimulants have been known to unmask underlying tics, and at times they can exacerbate an established Tourette’s or tic 
+disorder. To complicate matters further, most children present for ADHD treatment during the age range when tics begin 
+to manifest and worsen. For patients with more severe tics, alpha-agonists are worth considering prior to a stimulant trial.
+ /uni2981In patients with a seizure disorder, stimulants may lower the seizure threshold, although the current data are 
+contradictory.
+ADHD Medications
+In patients with a genetic predisposition to or history of psychosis, stimulants can exacerbate symptoms in a dose-
+dependent fashion. Amphetamine products have at least double the psychosis risk of methylphenidate products.
+ /uni2981Patients with a comorbid anxiety disorder may experience a worsening of anxiety symptoms; however, anxiety and also 
+boredom may improve.
+ /uni2981Research has debunked prior concerns that stimulants might not work as well and produce more side e ﬀects in autistic 
+children and teens.
+ /uni2981Some patients have been known to have increased skin picking, hair pulling, and nail biting behaviors with stimulant 
+medications. Alpha-agonists may be helpful here too.
+ /uni2981A few patients may experience an increase in aggressive behaviors or other adverse psychiatric e ﬀects (hallucinations, 
+delusions, mania).
+ /uni2981Stimulants may increase heart rate and blood pressure, particularly in older patients; thus, vitals should be monitored at 
+baseline and with subsequent dose adjustments. Blood pressure parameters vary in children by age, height, and sex (see 
+Appendix C). Patients with cardiovascular symptoms, with a family history of early cardiac death or cardiac arrhythmias, 
+or who are adopted with unknown family histories would bene /f_it from additional consultation from their primary care 
+physician or cardiologist.
+ /uni2981Black box warnings for abuse and dependence: Patients with a history of recent substance use should be followed more 
+closely if stimulants are considered, given the risk of diversion, overuse, and dependence of these medications. Vyvanse is 
+thought to have decreased misuse potential due to being a prodrug that becomes active only after oral ingestion.
+------------------------------------------------------------------- 
+AMPHETAMINE  (Adzenys XR-ODT, Dyanavel XR, Evekeo) Fact Sheet [G]
+BOTTOM LINE:
+Newer formulations of an old drug come with a high price tag. Stick to the usual amphetamine products like mixed 
+amphetamine salts unless liquid or ODT dosing is absolutely necessary.
+PEDIATRIC FDA INDICATIONS:
+ADHD  (Adzenys XR-ODT and Dyanavel XR: children >6; Evekeo: children >3).
+ADULT FDA INDICATIONS:
+ADHD (Adzenys XR-ODT); narcolepsy (Evekeo); obesity (Evekeo).
+OFF /hyphen.capLABEL USES:
+Treatment-resistant depression.
+DOSAGE FORMS:
+ /uni2981Tablets (Evekeo, [G]):  5/uni00A0mg, 10 /uni00A0mg (scored); (Evekeo ODT):  2.5 mg, 5 mg, 10 mg, 15 mg, 20 mg.
+ /uni2981ER tablets (Dyanavel XR): 5 mg (scored), 10 mg, 15 mg, 20 mg.
+ /uni2981ER orally disintegrating tablets (Adzenys XR-ODT):  3.1/uni00A0mg, 6.3 /uni00A0mg, 9.4 /uni00A0mg, 12.5 /uni00A0mg, 15.7 /uni00A0mg, 18.8 /uni00A0mg.
+ /uni2981ER oral suspension (Dyanavel XR):  2.5/uni00A0mg/mL; (Adzenys ER): 1.25 mg/mL.
+PEDIATRIC DOSAGE GUIDANCE:
+ /uni2981Tablets (Evekeo, [G]):
+ –Children /uni00A03–5: Start /uni00A02.5/uni00A0mg QAM, increase in /uni00A02.5/uni00A0mg/day increments weekly to maximum of /uni00A040/uni00A0mg/day in divided doses.
+ –Children /uni00A06–17: Start /uni00A05/uni00A0mg QAM, increase in /uni00A05/uni00A0mg/day increments weekly to maximum of /uni00A040/uni00A0mg/day in divided doses.
+ /uni2981ER ODT (Adzenys XR-ODT) or Adzenys ER oral suspension:
+ –Start /uni00A06.3/uni00A0mg QAM, increase in /uni00A03.1 mg (2.5 mL)/day–6.3 /uni00A0mg (5 mL)/day increments weekly. Maximum of /uni00A018.8 /uni00A0mg (15 mL)/
+day (ages /uni00A06–12) or /uni00A012.5 /uni00A0mg (10 mL)/day (ages /uni00A013–17).
+ /uni2981ER oral suspension (Dyanavel XR):
+ –Start /uni00A02.5–5 /uni00A0mg QAM, increase in /uni00A02.5–10 /uni00A0mg/day increments every /uni00A0four to seven days. Maximum /uni00A020/uni00A0mg/day.
+MONITORING:  Weight, height, BP/P; ECG.
+COST:  [G]: $$$; others: $$$$
+SIDE EFFECTS:
+ /uni2981Most common: Abdominal pain, decreased appetite, weight loss, insomnia, headache, nervousness.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily via CYP2D6; t ½: 11/uni00A0hours.
+ /uni2981Avoid use with MAOIs, antacids.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981FDA approved, many studies, history of clinical e ﬃcacy and safety, and larger e ﬀect size than non-stimulants.
+ /uni2981Racemic l-isomer is more potent than d-isomer in peripheral activity (more cardiovascular e ﬀects, tics).
+ /uni2981There may be less appetite suppressant e ﬀects with racemic mixture compared to dextroamphetamine.
+ /uni2981Divide IR (Evekeo) doses by /uni00A0intervals of four to six hours.
+ /uni2981Approximate equivalence doses of Adzenys XR-ODT and mixed amphetamine salts XR (Adderall XR) are: 3.1 /uni00A0mg = 5 /uni00A0mg, 
+6.3/uni00A0mg = 10 /uni00A0mg, 9.4 /uni00A0mg = 15 /uni00A0mg, 12.5 /uni00A0mg = 20 /uni00A0mg, 15.7 /uni00A0mg = 25 /uni00A0mg, 18.8 /uni00A0mg = 30 /uni00A0mg.
+ /uni2981Shake Dyanavel XR oral suspension for extended release. 2.5 /uni00A0mg/mL = 4 /uni00A0mg of mixed amphetamine salts.
+ /uni2981Amphetamines are not interchangeable on a mg:mg basis. When switching, use a lowered dose and adjust.
+FUN FACT:
+The term “amphetamine” is the contracted form of the chemical “alpha-methylphenethylamine. ” Its /f_irst pharmacologic use 
+was when pharmaceutical company Smith, Kline and French sold amphetamine under the trade name Benzedrine as a 
+decongestant inhaler.
+ADHD Medications
+ www.thecarlatreport.com  | CHILD MEDICATION FACT BOOK FOR PSYCHIATRIC PRACTICE, SECOND EDITION   21ATOMOXETINE  (Strattera) Fact Sheet [G]
+BOTTOM LINE:
+Advantages: Unlike stimulants, atomoxetine has no abuse potential, causes less insomnia and anxiety, and is unlikely to 
+worsen tics.
+Disadvantages: It is generally less e ﬀective than stimulants, and takes longer to work (two to four weeks).
+PEDIATRIC FDA INDICATIONS:
+ADHD  (6–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+ADHD.
+OFF /hyphen.capLABEL USES:
+Treatment-resistant depression.
+DOSAGE FORMS:
+Capsules (G):  10/uni00A0mg, 18 /uni00A0mg, 25 /uni00A0mg, 40 /uni00A0mg, 60 /uni00A0mg, 80 /uni00A0mg, 100 /uni00A0mg.
+PEDIATRIC DOSAGE GUIDANCE:
+ /uni2981Children >70 /uni00A0kg: Start /uni00A040/uni00A0mg QAM for /uni00A0three /uni00A0days, ↑ to/uni00A080/uni00A0mg QAM, may ↑ to/uni00A0100/uni00A0mg/day after /uni00A0two to four weeks if needed 
+(max /uni00A0100/uni00A0mg/day); may divide doses >40 /uni00A0mg/day (divided dosing in morning and late afternoon/early evening).
+ /uni2981Children <70 /uni00A0kg: Start /uni00A00.5/uni00A0mg/kg QAM for /uni00A0three /uni00A0days, ↑ to/uni00A01.2/uni00A0mg/kg QAM, may ↑ to max /uni00A01.4/uni00A0mg/kg/day or /uni00A0100/uni00A0mg/day 
+(whichever is less) after /uni00A0two to four weeks, if needed; may divide doses >0.5 /uni00A0mg/kg/day (divided dosing in morning and 
+late afternoon/early evening).
+MONITORING:  BP/P , LFTs.
+COST:  $
+SIDE EFFECTS:
+ /uni2981Most common: Headache, abdominal pain, decreased appetite, fatigue, nausea, vomiting.
+ /uni2981Serious but rare: Class warning for suicidal ideation in children and teens. Severe hepatic injury including increased 
+hepatic enzymes (up to /uni00A040/uni00A0times normal) and jaundice (bilirubin up to /uni00A012/uni00A0times upper limit of normal). Increased blood 
+pressure ( ↑ 15–20 /uni00A0mmHg) and heart rate ( ↑ 20/uni00A0bpm).
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Selective norepinephrine reuptake inhibitor (NRI).
+ /uni2981Metabolized primarily via CYP2D6; t ½: 5/uni00A0hours.
+ /uni2981Avoid use with MAOIs. Exercise caution with /uni00A02D6 /uni00A0inhibitors such as /f_luoxetine, paroxetine, and quinidine (increased 
+atomoxetine serum levels); use slower titration and do not exceed /uni00A080/uni00A0mg/day in presence of /uni00A02D6 /uni00A0inhibitors or in /uni00A02D6 /uni00A0poor 
+metabolizers.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981Eﬀective and FDA approved for ADHD; however, several studies clearly show it does not produce as robust of a treatment 
+eﬀect as stimulants.
+ /uni2981QAM dosing is as e ﬀective as BID, but BID dosing has better GI tolerability. Can also be dosed at bedtime if it causes 
+fatigue.
+ /uni2981Appears to be more e ﬀective in improving attention than in controlling hyperactivity.
+ /uni2981Of the two NRIs available for ADHD, atomoxetine is cheaper than viloxazine.
+FUN FACT:
+Atomoxetine was originally known as “tomoxetine”; however, the FDA requested that the name be changed because the 
+similarity to “tamoxifen” could lead to dispensing errors.
+------------------------------------------------------------------- 
+CLONIDINE  (Catapres, Kapvay) Fact Sheet [G]
+BOTTOM LINE:
+Clonidine is a good option in kids with ADHD who also have tics, who experience excessive anxiety or insomnia on 
+stimulants, or in whom substance misuse is a concern. Its delayed onset of e ﬀect (two to four /uni00A0weeks) and lower e ﬃcacy 
+rates make it a second-line choice for ADHD generally; however, it can also be used as an add-on to stimulant medication. 
+Commonly used o ﬀ label for anxiety and insomnia, but e ﬃcacy data are limited.
+PEDIATRIC FDA INDICATIONS:
+ADHD  (6–17 /uni00A0years [ER formulation only]).
+ADULT FDA INDICATIONS:
+Hypertension.
+OFF /hyphen.capLABEL USES:
+ADHD (IR); insomnia; anxiety; PTSD; opioid withdrawal; autism; ODD; Tourette’s and motor tics; migraine prophylaxis; 
+aggression.
+DOSAGE FORMS:
+ /uni2981IR tablets  (Catapres, [G]):  0.1/uni00A0mg, 0.2 /uni00A0mg, 0.3 /uni00A0mg.
+ /uni2981ER tablets  (Kapvay, [G]):  0.1/uni00A0mg, 0.2 /uni00A0mg.
+ /uni2981Patch (Catapres-TTS, [G]): 0.1 mg/day, 0.2 mg/day, 0.3 mg/day.
+PEDIATRIC DOSAGE GUIDANCE:
+ /uni2981ADHD or anxiety:
+ –ER: 0.1 /uni00A0mg QHS; increase by /uni00A00.1/uni00A0mg/day weekly and give divided BID; max /uni00A00.4/uni00A0mg QD.
+ –IR: 0.05 /uni00A0mg QHS; increase by /uni00A00.05 /uni00A0mg/day increments every /uni00A0three to seven /uni00A0days; max /uni00A00.2/uni00A0mg/day for /uni00A027–40.5 /uni00A0kg, 0.3 /uni00A0mg/
+day for /uni00A040.5–45 /uni00A0kg, or /uni00A00.4/uni00A0mg/day for >45 /uni00A0kg; doses may be divided up to QID dosing.
+ /uni2981Insomnia: Start /uni00A00.05 /uni00A0mg IR QHS, titrate if needed by /uni00A00.05 /uni00A0mg (<45 /uni00A0kg) or /uni00A00.1/uni00A0mg (>45 /uni00A0kg) increments every /uni00A0three to 
+seven /uni00A0days; max /uni00A00.4/uni00A0mg nightly, though most will respond to doses ≤0.2/uni00A0mg at bedtime.
+MONITORING:  BP .
+COST:  $
+SIDE EFFECTS:
+ /uni2981Most common: Somnolence, fatigue, dizziness, headache.
+ /uni2981Serious but rare: Hypotension, syncope, orthostasis.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Centrally acting alpha-2 /uni00A0adrenergic agonist.
+ /uni2981Metabolized primary through CYP2D6; t ½: 12–16 /uni00A0hours.
+ /uni2981Avoid use with MAOIs. Additive e ﬀects with other antihypertensives. Caution with 2D6 inhibitors (eg, paroxetine, 
+/f_luoxetine, duloxetine).
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981Studies support the use of clonidine to decrease residual hyperactivity, impulsivity, and aggression in ADHD.
+ /uni2981Several small limited (chart review, case series, descriptive, or retrospective) studies have supported the e ﬃcacy of 
+clonidine as a sleep aid in autistic kids as well as children with and without ADHD, developmental delays, and genetic 
+syndromes; however, a small systematic chart review showed signi /f_icant subjective improvement in sleep in children, but 
+only a nonsigni /f_icant trend for improvement of sleep in adolescents.
+ /uni2981Avoid abrupt discontinuation because of potential risk for rebound hypertension. When discontinuing, taper in no more 
+than 0.1 /uni00A0mg/day decrements every /uni00A0three to seven days to reduce the risk of rebound hypertension. If a child misses /uni00A0two /uni00A0or 
+more consecutive doses, consider repeating titration.
+ /uni2981Although a few studies support use of the patch for treating tic disorders, the patch formulation is not typically used 
+except for treating hypertension because its e ﬀects on BP may be prolonged and continue even after patch removal.
+ /uni2981Many child psychiatrists prefer clonidine as an agent for sleep, but little empirical evidence exists to support this use. 
+Still, anecdotal clinical experience suggests clonidine is generally safe and e ﬀective for insomnia, particularly in kids with 
+ADHD.
+ /uni2981Generally more sedating than guanfacine.
+FUN FACT:
+In the early /uni00A01960s, Boehringer Ingelheim wished to synthesize a peripherally active adrenergic drug for nasal decongestion 
+as nose drops. After administering the potential compound to a secretary, she fell asleep for /uni00A024/uni00A0hours, developing low blood 
+pressure, low pulse, and dry mouth. This compound was subsequently developed as clonidine for treating hypertension.
+ADHD Medications
+ www.thecarlatreport.com  | CHILD MEDICATION FACT BOOK FOR PSYCHIATRIC PRACTICE, SECOND EDITION   23DEXMETHYLPHENIDATE  (Azstarys, Focalin, Focalin XR) Fact Sheet [G]
+BOTTOM LINE:
+Focalin is just Ritalin but more potent. It’s available as a generic and may mean fewer tablets for patients. Focalin XR only 
+recently went generic. Azstarys is a newly approved (and expensive) combination of Focalin and a prodrug version of 
+Focalin—the Focalin is absorbed quickly while the prodrug is absorbed more slowly (it’s the Vyvanse of methylphenidate, 
+with less potential misuse than Focalin).
+PEDIATRIC FDA INDICATIONS:
+ADHD (6–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+ADHD (Azstarys, Focalin XR).
+OFF /hyphen.capLABEL USES:
+Narcolepsy; obesity; treatment-resistant depression.
+DOSAGE FORMS:
+ /uni2981Dexmethylphenidate tablets (Focalin, [G]):  2.5/uni00A0mg, 5 /uni00A0mg, 10 /uni00A0mg.
+ /uni2981Dexmethylphenidate ER capsules (Focalin XR, [G]):  5/uni00A0mg, 10 /uni00A0mg, 15 /uni00A0mg, 20 /uni00A0mg, 25 /uni00A0mg, 30 /uni00A0mg, 35 /uni00A0mg, 40 /uni00A0mg.
+ /uni2981Serdexmethylphenidate/dexmethylphenidate ER capsules (Azstarys):  26.1/5.2 mg, 39.2/7.8 mg, 52.3/10.4 mg.
+PEDIATRIC DOSAGE GUIDANCE:
+ /uni2981d-MPH IR: Start /uni00A02.5/uni00A0mg BID, ↑ by/uni00A05–10 /uni00A0mg/day every /uni00A0seven /uni00A0days. Max /uni00A020/uni00A0mg/day; divide IR doses by at least /uni00A0four /uni00A0hours.
+ /uni2981d-MPH ER: Start /uni00A05/uni00A0mg QAM, ↑ by/uni00A05/uni00A0mg/day every /uni00A0seven /uni00A0days. Max /uni00A030/uni00A0mg/day.
+ /uni2981Serdex-MPH/d-MPH: Start 39.2/7.8 mg QAM, ↑ to max dose of 52.3/10.4 mg after one week if indicated.
+MONITORING:  Weight, height, BP/P; ECG.
+COST:  IR: $; ER: $$; Azstarys: $$$$
+SIDE EFFECTS:
+ /uni2981Most common: Decreased appetite, insomnia, anxiety, GI distress, irritability, tics, headache, tachycardia, hypertension, dry 
+mouth.
+ /uni2981Serious but rare: See cardiovascular class warning in chapter introduction.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Serdexmethylphenidate (Serdex-MPH) is a prodrug of dexmethylphenidate (d-MPH). d-MPH is metabolized primarily 
+via de-esteri /f_ication, not CYP450; t ½: 2–4.5 /uni00A0hours (2–3 /uni00A0hours in children); d-MPH ER delivers /uni00A050% of dose immediately 
+and /uni00A050% about /uni00A0/f_ive/uni00A0hours later. Azstarys t ½: 6–12 hours; delivers 30% d-MPH immediately and 70% as prodrug.
+ /uni2981Avoid use with MAOIs.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981Several randomized controlled trials and meta-analyses have shown dexmethylphenidate, like other stimulants, is 
+eﬀective for ADHD with a large treatment e ﬀect size.
+ /uni2981Focalin is the d-isomer of methylphenidate and is /uni00A0twice as potent as methylphenidate, which is why it is prescribed at 
+about half the dose. Serdex-MPH is a prodrug, converted to d-MPH in the lower GI tract.
+ /uni2981Use the same total daily dose of Focalin IR as Focalin XR. The combined dose of Azstarys 26.1/5.2, 39.2/7.8, or 52.3/10.4 mg 
+is equivalent to 20, 30, or 40 mg of Focalin, respectively.
+ /uni2981Focalin XR capsules contain /uni00A0two /uni00A0kinds of beads: Half are immediate-release beads and half are enteric-coated delayed-
+release beads. A single, once-daily dose of XR capsule provides the same amount of dexmethylphenidate as /uni00A0two /uni00A0IR tablets 
+given /uni00A0four /uni00A0hours apart.
+ /uni2981The ER capsules cannot be split in half. However, they can be opened and the beads sprinkled over food. The patient 
+should then eat all that food—eating half won’t work to split the dose accurately because it won’t be possible to 
+determine if the eaten portion contains more immediate-release or delayed-release beads.
+ /uni2981Give with food if GI side e ﬀects occur.
+FUN FACT:
+With /uni00A0two /uni00A0stereoactive centers, methylphenidate has /uni00A0four /uni00A0possible stereoisomers. Of the /uni00A0four, dexmethylphenidate is the 
+most active biologically.
+------------------------------------------------------------------- 
+DEXTROAMPHETAMINE  (Dexedrine, 
+ProCentra, Zenzedi) Fact Sheet [G]
+BOTTOM LINE:
+Good drug with very long history of experience, available in short- and long-acting formulations as generics.
+PEDIATRIC FDA INDICATIONS:
+ADHD (3–17 /uni00A0years);  narcolepsy (6–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+Narcolepsy.
+OFF /hyphen.capLABEL USES:
+Obesity; treatment-resistant depression.
+DOSAGE FORMS:
+ /uni2981Tablets (Dexedrine, [G]):  5/uni00A0mg, 10 /uni00A0mg (scored).
+ /uni2981Tablets (Zenzedi):  2.5/uni00A0mg, 5 /uni00A0mg, 7.5 /uni00A0mg, 10 /uni00A0mg, 15 /uni00A0mg, 20 /uni00A0mg, 30 /uni00A0mg (5 /uni00A0mg scored, 10 /uni00A0mg double scored; rest unscored).
+ /uni2981ER capsules (Dexedrine Spansules, [G]):  5/uni00A0mg, 10 /uni00A0mg, 15 /uni00A0mg.
+ /uni2981Liquid (ProCentra, [G]):  5/uni00A0mg/5 /uni00A0mL.
+PEDIATRIC DOSAGE GUIDANCE:
+ /uni2981ADHD (IR and ER):
+ –Children >6 /uni00A0years: Start /uni00A05/uni00A0mg QAM; ↑ by/uni00A05/uni00A0mg/day at weekly intervals to max /uni00A060/uni00A0mg/day, though doses >40 /uni00A0mg/day 
+rarely more e ﬀective. Divide IR dose QD–TID.
+ –Children /uni00A03−5/uni00A0years: Start /uni00A02.5/uni00A0mg QAM; ↑ by/uni00A02.5/uni00A0mg/day weekly to max /uni00A060/uni00A0mg/day, though doses >40 /uni00A0mg/day rarely 
+more e ﬀective. Divide IR dose QD–TID.
+ /uni2981Narcolepsy (IR and ER):
+ –Start /uni00A05/uni00A0mg QAM (ages /uni00A06–11) or /uni00A010/uni00A0mg QAM (ages /uni00A012–17); ↑ by/uni00A05/uni00A0mg/day (ages /uni00A06–11) or /uni00A010/uni00A0mg/day (ages /uni00A012–17) weekly 
+to max /uni00A060/uni00A0mg/day. Divide IR dose QD–TID.
+MONITORING:  Weight, height, BP/P; ECG.
+COST:  IR/ER: $ (ProCentra: $$$)
+SIDE EFFECTS:
+ /uni2981Most common: Abdominal pain, anorexia, nausea, tics, insomnia, tachycardia, headache.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily through CYP450 2D6 (minor) and glucuronidation; t ½: 12/uni00A0hours.
+ /uni2981Avoid use with MAOIs, antacids.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981At least /uni00A0/f_ive/uni00A0randomized clinical trials, some dating back to the /uni00A01970s, support the e ﬃcacy of dextroamphetamine in 
+children with ADHD.
+ /uni2981Dextroamphetamine is the more potent d-isomer of amphetamine; it has potentially less peripheral e ﬀects (eg, motor tics) 
+than racemic mix (eg, mixed amphetamine salts like Adderall, amphetamine, or methamphetamine).
+ /uni2981Doses of IR tablets and oral solution can be given at intervals of /uni00A0four to six hours.
+ /uni2981Dextroamphetamine is the only stimulant, other than Adderall IR, approved for children <6 /uni00A0years (approved for children 
+>3/uni00A0years).
+ /uni2981The newer Zenzedi brand o ﬀers more dosing /f_lexibility options, but is more expensive than generic IR tablets.
+ /uni2981Available in a new patch formulation as Xelstrym (see fact sheet).
+ /uni2981Also available as D,L racemic mixture of amphetamine as Evekeo tablets, Adzenys XR-ODT, and Dyanavel XR oral 
+suspension (see amphetamine fact sheet).
+FUN FACT:
+Dexys Midnight Runners, the British band famous for its song “Come On Eileen” (1982), derived their name from 
+Dexedrine—“Dexys” after the drug’s name and “Midnight Runners” in reference to the energy it provides.
+ADHD Medications
+ www.thecarlatreport.com  | CHILD MEDICATION FACT BOOK FOR PSYCHIATRIC PRACTICE, SECOND EDITION   25DEXTROAMPHETAMINE  TRANSDERMAL  (Xelstrym) Fact Sheet
+BOTTOM LINE:
+A patch option in the amphetamine class of stimulants for kids who cannot use the wide array of oral stimulants available 
+today. Minimal data and less experience than with methylphenidate transdermal (Daytrana), but similar to Daytrana in terms 
+of high cost, lag time for onset of e ﬀect, and side e ﬀects.
+PEDIATRIC FDA INDICATIONS:
+ADHD (6–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+ADHD.
+DOSAGE FORMS:
+Transdermal patch:  4.5/uni00A0mg, 9 /uni00A0mg, 13.5 /uni00A0mg, 18 /uni00A0mg/9 /uni00A0hour.
+PEDIATRIC DOSAGE GUIDANCE:
+Start /uni00A04.5/uni00A0mg/9 /uni00A0hour patch QAM (for initial therapy or for patients switching from other amphetamine preparations, 
+regardless of dose). Apply to hip, upper arm, chest, upper back, or /f_lank/uni00A0two /uni00A0hours before an e ﬀect is needed and 
+remove /uni00A0nine /uni00A0hours after application (drug e ﬀects may persist for /uni00A0/f_ive/uni00A0hours after removal). Increase dose at weekly intervals 
+by using next-higher-dose system. May be removed in <9 /uni00A0hours if shorter duration is desired or if late-day side e ﬀects occur. 
+Rotate application sites. Max /uni00A018/uni00A0mg QD.
+MONITORING:  Weight, height, BP/P; ECG.
+COST:  $$$$
+SIDE EFFECTS:
+ /uni2981Most common: Decreased appetite, headache, insomnia, tic, abdominal pain, vomiting, nausea, irritability, increased BP 
+and pulse. Application site reactions and sensitization may occur.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily through CYP450 2D6 (minor) and glucuronidation; t ½: 6.4 /uni00A0hours (11.5 hours in adults).
+ /uni2981Avoid use with MAOIs, antacids.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981Approval was based on a two-week, randomized, double-blind, placebo-controlled, crossover, modi /f_ied-analog classroom 
+study in 110 pediatric patients with ADHD ages 6–17. E ﬃcacy measure assessed was the Swanson, Kotkin, Angler, M. 
+Flynn, and Pelham (SKAMP) score, a scale speci /f_ic to the classroom setting.
+ /uni2981Dextroamphetamine is the more potent d-isomer of amphetamine; it has potentially less peripheral e ﬀects (eg, motor tics) 
+than racemic mix (eg, mixed amphetamine salts like Adderall, amphetamine, or methamphetamine).
+ /uni2981The manufacturer, Noven Pharmaceuticals, Inc. recommends against cutting the patch (eg to adjust the dosage).
+FUN FACT: 
+While Daytrana is approved for pediatric use only, Xelstrym is also approved for use in adults.
+------------------------------------------------------------------- 
+GUANFACINE  (Intuniv, Tenex) Fact Sheet [G]
+BOTTOM LINE:
+Guanfacine’s advantages over stimulants include no worsening of tic disorders, lack of misuse potential, and no insomnia. It 
+can also be used as an add-on to stimulant medication. However, its delayed onset of e ﬀect (two to four weeks) and lower 
+eﬃcacy rates make it a second-line choice for ADHD generally. ER is now available in generic and easier to use than IR. 
+Commonly used o ﬀ label for anxiety and insomnia, but e ﬃcacy data are limited.
+PEDIATRIC FDA INDICATIONS:
+ADHD  (6–17 /uni00A0years [ER formulation only]), as monotherapy or adjunctive therapy to stimulants.
+ADULT FDA INDICATIONS:
+Hypertension.
+OFF /hyphen.capLABEL USES:
+Conduct disorder; Tourette’s and motor tics; agitation in autistic kids; migraine prophylaxis; opioid withdrawal; anxiety and 
+PTSD; insomnia.
+DOSAGE FORMS:
+ /uni2981IR tablets (Tenex, [G]):  1/uni00A0mg, 2 /uni00A0mg.
+ /uni2981ER tablets (Intuniv, [G]):  1/uni00A0mg, 2 /uni00A0mg, 3 /uni00A0mg, 4 /uni00A0mg.
+PEDIATRIC DOSAGE GUIDANCE:
+ /uni2981ADHD or anxiety:
+ –IR dosing depends on weight:
+ /uni25FD27–40.5 /uni00A0kg (55–90 /uni00A0lbs): Start /uni00A00.5/uni00A0mg QHS, ↑ by/uni00A00.5/uni00A0mg/
+day at weekly intervals up to /uni00A01.5/uni00A0mg/day; may ↑ 
+to/uni00A02/uni00A0mg/day after /uni00A0two /uni00A0weeks; max /uni00A02/uni00A0mg/day in /uni00A0two to 
+four divided doses. /uni25FD40.5–45 /uni00A0kg (90–99 /uni00A0lbs): Start /uni00A00.5/uni00A0mg QHS, ↑ by/uni00A00.5/uni00A0mg/
+day at weekly intervals; max /uni00A01/uni00A0mg per dose, 3 /uni00A0mg/day.
+ /uni25FD>45 /uni00A0kg (>99 /uni00A0lbs): Start /uni00A01/uni00A0mg QHS, ↑ by/uni00A01/uni00A0mg/day at 
+weekly intervals up to /uni00A03/uni00A0mg/day; may ↑ to/uni00A04/uni00A0mg/day 
+after /uni00A0two /uni00A0weeks; max /uni00A01/uni00A0mg per dose, 4 /uni00A0mg/day.
+ –ER: Start /uni00A01/uni00A0mg QHS, ↑ by/uni00A01/uni00A0mg/day at weekly intervals; max /uni00A04/uni00A0mg/day. Alternative: 0.05–0.12 /uni00A0mg/kg QD or QHS; 
+max /uni00A04/uni00A0mg/day. Doses up to /uni00A07/uni00A0mg/day ER studied as monotherapy in adolescents.
+ /uni2981Insomnia: Use IR: Start low, go slow, typically 0.5 mg QHS, increasing by 0.5 mg/day at weekly intervals; max 3 mg/day.
+MONITORING:  BP .
+COST:  $
+SIDE EFFECTS:
+ /uni2981Most common: Dry mouth, somnolence, dizziness, constipation, fatigue, headache.
+ /uni2981Serious but rare: Hypotension, syncope, orthostasis.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Centrally acting, selective alpha-2 /uni00A0adrenergic agonist.
+ /uni2981Metabolized primarily through CYP3A4; t ½: 13–14 /uni00A0hours in children (16–18 /uni00A0hours in adults).
+ /uni2981Avoid use with MAOIs. Caution with /uni00A03A4 /uni00A0inhibitors (eg, clarithromycin, /f_luvoxamine) and inducers (eg, St. John’s wort, 
+carbamazepine).
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981At least /uni00A0six/uni00A0randomized placebo-controlled trials and a meta-analysis show e ﬃcacy in children with ADHD.
+ /uni2981A pilot study of /uni00A083/uni00A0children with GAD, separation anxiety, or social anxiety found guanfacine treatment resulted in greater 
+subjective improvement of anxiety than placebo, but no improvement on other measures of anxiety.
+ /uni2981One negative randomized trial for insomnia in children with ADHD found decreased total sleep time of nearly an hour, 
+with kids taking more time to fall asleep.
+ /uni2981Guanfacine IR and ER are not interchangeable on a mg:mg basis. When switching, taper and retitrate.
+ /uni2981Guanfacine tends to be less sedating than clonidine, another alpha-agonist.
+ /uni2981ER tablets should not be taken with a high-fat meal due to increased medication exposure.
+ /uni2981Minimize side e ﬀects, especially somnolence, by administering at bedtime.
+ /uni2981Monitor BP , especially during initial dosing titration.
+ /uni2981There is a risk of nervousness, anxiety, and possibly rebound hypertension /uni00A0two to four /uni00A0days after abrupt discontinuation. 
+Taper dose in /uni00A01/uni00A0mg/day decrements every /uni00A0three to seven days.
+ /uni2981If a child misses /uni00A0two /uni00A0or more consecutive doses, consider repeating titration.
+FUN FACT:
+Some prescribers have taken advantage of guanfacine’s sympatholytic properties for the treatment of anxiety disorders in 
+children as well as nightmares and dissociative symptoms in PTSD.
+ADHD Medications
+ www.thecarlatreport.com  | CHILD MEDICATION FACT BOOK FOR PSYCHIATRIC PRACTICE, SECOND EDITION   27LISDEXAMFETAMINE  (Vyvanse) Fact Sheet
+BOTTOM LINE:
+Vyvanse may have a gentler, “smoother” side e ﬀect pro /f_ile than other amphetamines, and probably has a lower risk of 
+diversion or misuse. However, its high cost means insurance companies don’t like to pay for it without prior authorizations.
+PEDIATRIC FDA INDICATIONS:
+ADHD  (6–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+ADHD; binge eating disorder (BED).
+OFF /hyphen.capLABEL USES:
+Narcolepsy; obesity; treatment-resistant depression.
+DOSAGE FORMS:
+ /uni2981Capsules:  10/uni00A0mg, 20 /uni00A0mg, 30 /uni00A0mg, 40 /uni00A0mg, 50 /uni00A0mg, 60 /uni00A0mg, 70 /uni00A0mg.
+ /uni2981Chewable tablets:  10/uni00A0mg, 20 /uni00A0mg, 30 /uni00A0mg, 40 /uni00A0mg, 50 /uni00A0mg, 60 /uni00A0mg.
+PEDIATRIC DOSAGE GUIDANCE:
+Start /uni00A030/uni00A0mg QAM, ↑ by/uni00A010–20 /uni00A0mg/day at weekly intervals. Target lowest e ﬀective dose; max /uni00A070/uni00A0mg/day.
+MONITORING:  Weight, height, BP/P; ECG.
+COST:  $$$$
+SIDE EFFECTS:
+ /uni2981Most common: Insomnia, anorexia, abdominal pain, irritability, agitation, tics, decreased appetite, increased heart rate, 
+jitteriness, anxiety.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily through non-CYP-mediated hepatic and/or intestinal metabolism; t ½: lisdexamfetamine (inactive 
+prodrug) <1 /uni00A0hour; dextroamphetamine (active metabolite) 12 /uni00A0hours. Dextroamphetamine metabolized by CYP2D6.
+ /uni2981Avoid use with MAOIs and antacids. Caution with antihypertensives (decreased e ﬃcacy of antihypertensive). Caution 
+with /uni00A02D6 /uni00A0inhibitors, which may increase stimulant e ﬀects.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981At least /f_ive randomized controlled trials and a meta-analysis support e ﬃcacy of lisdexamfetamine in children with ADHD.
+ /uni2981Lisdexamfetamine is dextroamphetamine with the chemical lysine bound to it, which renders it inactive. It remains 
+inactive until GI enzymes cleave o ﬀ lysine and convert it to active dextroamphetamine. This means that people who 
+misuse it can’t get high by snorting it or injecting it.
+ /uni2981Anecdotally, Vyvanse has a more gradual onset and o ﬀset than other stimulants, and may cause fewer side e ﬀects than 
+other amphetamines.
+ /uni2981Taking with food decreases the e ﬀect slightly and delays peak levels by an hour. If patients feel it’s not “kicking in” fast 
+enough, have them take it earlier or on an empty stomach.
+ /uni2981Lisdexamfetamine /uni00A070/uni00A0mg is equivalent to /uni00A030/uni00A0mg of mixed amphetamine salts (Adderall).
+ /uni2981While indicated for BED, it is not approved for use as a weight-loss or anti-obesity agent, nor has it been studied in 
+children.
+FUN FACT:
+The manufacturer of Vyvanse pursued an indication as an add-on medication for depression, but disappointing results in 
+clinical trials put an end to this e ﬀort.
+------------------------------------------------------------------- 
+METHAMPHETAMINE  (Desoxyn) Fact Sheet [G]
+BOTTOM LINE:
+Highly addictive substance; its use is generally not recommended. Watch the television show Breaking Bad  if you’re not 
+convinced!
+PEDIATRIC FDA INDICATIONS:
+ADHD  (6–17 /uni00A0years); obesity  (12–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+Obesity.
+DOSAGE FORMS:
+Tablets (G):  5/uni00A0mg.
+PEDIATRIC DOSAGE GUIDANCE:
+ADHD: Start /uni00A05/uni00A0mg QAM–BID, ↑ by/uni00A05/uni00A0mg/day at weekly intervals to max /uni00A020/uni00A0mg/day, divided BID.
+MONITORING:  Weight, height, BP/P; ECG.
+COST:  $$$$
+SIDE EFFECTS:
+ /uni2981Most common: Anorexia, tachycardia, dizziness, insomnia, tremor, tics, restlessness, headache, constipation (decreased GI 
+motility). Dental complications, such as poor dental hygiene, di ﬀuse cavities, bruxism, and tooth wear, may develop with 
+misuse.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily through CYP2D6 /uni00A0to active metabolite (amphetamine); t ½: 4–5 /uni00A0hours.
+ /uni2981Avoid use with MAOIs and antacids. Caution with /uni00A02D6 /uni00A0inhibitors, which may increase stimulant e ﬀects.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981FDA indication, but very limited published data in children.
+ /uni2981High risk of misuse.
+ /uni2981Not widely used (DEA reports that there were only /uni00A016,000 /uni00A0prescriptions written in /uni00A02012). When prescribed for obesity, 
+the recommendation is for short-term (ie, a few weeks) use only and as an adjunct to caloric restriction due to its high 
+addiction and diversion potential.
+ /uni2981CNS stimulating e ﬀect is approximately equal to or greater than that of amphetamine but less than that of 
+dextroamphetamine; less BP elevation than with amphetamine.
+FUN FACTS:
+Desoxyn is the same as the abused street drug methamphetamine, just pharmaceutical grade. Although methamphetamine 
+and amphetamine were long thought to be available only via laboratories, methamphetamine has been reported to occur 
+naturally in certain acacia trees that grow in West Texas.
+ADHD Medications
+ www.thecarlatreport.com  | CHILD MEDICATION FACT BOOK FOR PSYCHIATRIC PRACTICE, SECOND EDITION   29METHYLPHENIDATE  IR (Methylin, Ritalin) Fact Sheet [G]
+BOTTOM LINE:
+Better side e ﬀect pro /f_ile and somewhat lower misuse potential than amphetamines. However, patients often prefer the 
+“kick” they get from Adderall.
+PEDIATRIC FDA INDICATIONS:
+ADHD  (6–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+ADHD; narcolepsy.
+OFF /hyphen.capLABEL USES:
+Obesity; treatment-resistant depression.
+DOSAGE FORMS:
+ /uni2981Tablets (Ritalin, [G]):  5/uni00A0mg, 10 /uni00A0mg, 20 /uni00A0mg.
+ /uni2981Chewable tablets (Methylin CT, [G]):  2.5/uni00A0mg, 5 /uni00A0mg, 10 /uni00A0mg.
+ /uni2981Oral solution (Methylin, [G]):  5/uni00A0mg/5 /uni00A0mL, 10 /uni00A0mg/5 /uni00A0mL.
+PEDIATRIC DOSAGE GUIDANCE:
+ /uni2981ADHD: Children /uni00A06–17 /uni00A0years: Start /uni00A00.3/uni00A0mg/kg BID or /uni00A02.5–5 /uni00A0mg BID before breakfast and lunch, increase by /uni00A00.1/uni00A0mg/kg/dose 
+or/uni00A05–10 /uni00A0mg/day at weekly intervals to a max of /uni00A02/uni00A0mg/kg/day or /uni00A060/uni00A0mg/day.
+ /uni2981Narcolepsy: Same dosing as ADHD.
+MONITORING:  Weight, height, BP/P; ECG.
+COST:  $; chewable tablets: $$$
+SIDE EFFECTS:
+ /uni2981Most common: Insomnia, headache, nervousness, abdominal pain, nausea, vomiting, anorexia, weight loss, a ﬀect lability, 
+tics.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Hepatic metabolism via carboxylesterase CES1A1, not CYP450 /uni00A0isoenzymes; t ½: 2–4 /uni00A0hours.
+ /uni2981Avoid use with MAOIs, antacids.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981FDA approved with many studies and long history of clinical use supporting its e ﬃcacy and safety, with a larger treatment 
+eﬀect size than non-stimulant medications.
+ /uni2981Methylphenidate generally causes fewer side e ﬀects than amphetamine preparations—patients are less likely to report 
+feeling “wired.”
+ /uni2981While all stimulants may unmask tics, a Cochrane review of /uni00A0eight /uni00A0randomized trials showed that methylphenidate did not 
+worsen tics in children with ADHD and a tic disorder; in some cases it even improved tics.
+ /uni2981Methylin chewable tablet: Administer with at least /uni00A08/uni00A0ounces of water or other /f_luid.
+FUN FACT:
+Methylphenidate was synthesized by Ciba (now Novartis) chemist Leandro Panizzon. His wife, Marguerite, had low blood 
+pressure and would take the stimulant before playing tennis. He named the substance “Ritaline” (yes, with the “e” on the end) 
+after his wife’s nickname, Rita.
+------------------------------------------------------------------- 
+METHYLPHENIDATE  ER (Concerta, Ritalin SR and LA, others) Fact Sheet [G]
+BOTTOM LINE:
+There are many longer-acting methylphenidate preparations. Two good options are Concerta and Ritalin LA, available as generics.
+PEDIATRIC FDA INDICATIONS:
+ADHD  (6–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+ADHD; narcolepsy.
+OFF /hyphen.capLABEL USES:
+Obesity; treatment-resistant depression.
+DOSAGE FORMS  (more commonly used):
+ /uni2981Tablets
+ –SR tablets (Ritalin SR, Metadate ER, Methylin ER, [G]):  10/uni00A0mg, 20 /uni00A0mg.
+ –ER capsule osmotic release oral system (OROS) (Concerta, [G]):  18/uni00A0mg, 27 /uni00A0mg, 36 /uni00A0mg, 54 /uni00A0mg (22% IR/78% ER).
+ /uni2981Capsules
+ –Ritalin LA, [G]:  10/uni00A0mg, 20 /uni00A0mg, 30 /uni00A0mg, 40 /uni00A0mg, 60 /uni00A0mg (50% IR/50% ER).
+ –Metadate CD, [G]:  10/uni00A0mg, 20 /uni00A0mg, 30 /uni00A0mg, 40 /uni00A0mg, 50 /uni00A0mg, 60 /uni00A0mg (30% IR/70% ER).
+ –Aptensio XR:  10/uni00A0mg, 15 /uni00A0mg, 20 /uni00A0mg, 30 /uni00A0mg, 40 /uni00A0mg, 50 /uni00A0mg, 60 /uni00A0mg (40% IR/60% ER).
+ –Adhansia XR:  25 mg, 35 mg, 45 mg, 55 mg, 70 mg, 85 mg (20% IR/80% ER)
+ –Jornay PM:  20 mg, 40 mg, 60 mg, 80 mg, 100 mg (onset delayed 10 hours).
+ –ER oral suspension (Quillivant XR):  25/uni00A0mg/5 /uni00A0mL (20% IR/80% ER).
+ –ER chewable tablets (Quillichew ER):  20/uni00A0mg, 30 /uni00A0mg (scored), 40 /uni00A0mg (scored) (30% IR/70% ER).
+ –ER orally disintegrating tablets (Cotempla XR-ODT):  8.6/uni00A0mg, 17.3 /uni00A0mg, 25.9 /uni00A0mg (25% IR/75% ER).
+PEDIATRIC DOSAGE GUIDANCE:
+ /uni2981Intermediate-acting (Ritalin SR, Metadate ER, Methylin ER): Titrate to e ﬀective daily dose with IR, then switch to equivalent 
+eight-hour SR or ER dose QAM–BID or start /uni00A010/uni00A0mg QAM and increase by /uni00A010/uni00A0mg/day increments weekly; max /uni00A060/uni00A0mg/day.
+ /uni2981Long-acting (Aptensio XR, Metadate CD, Ritalin LA, Quillivant XR, Quillichew ER): Start /uni00A010–20 /uni00A0mg QAM; ↑ by/uni00A010/uni00A0mg/day at 
+weekly intervals; max /uni00A060/uni00A0mg/day.
+ /uni2981Long-acting (Adhansia XR): Start 25 mg QAM; ↑ by/uni00A010–15 mg/day at weekly intervals; max 70 mg/day (children) and 85 
+mg/day (adults).
+ /uni2981Long-acting (Cotempla XR-ODT):
+ –Start /uni00A017.3 /uni00A0mg QAM; ↑ by/uni00A08.6–17.3 /uni00A0mg/day at weekly intervals; max /uni00A051.8 /uni00A0mg/day.
+ –8.6/uni00A0mg, 17.3 /uni00A0mg, 25.9 /uni00A0mg equivalent to /uni00A010/uni00A0mg, 20 /uni00A0mg, 30 /uni00A0mg of other methylphenidate formulations, respectively.
+ /uni2981Long-acting (Concerta):
+ –Start /uni00A018/uni00A0mg QAM (ages /uni00A06–12) or /uni00A036/uni00A0mg (ages /uni00A013–17) QAM; ↑ by/uni00A018/uni00A0mg/day in weekly intervals to max /uni00A054/uni00A0mg/day 
+(ages /uni00A06–12) or /uni00A072/uni00A0mg/day (ages /uni00A013–17).
+ –If switching from di ﬀerent form of methylphenidate:
+ /uni25FD10–15 /uni00A0mg/day: Use /uni00A018/uni00A0mg QAM.
+ /uni25FD20–30 /uni00A0mg/day: Use /uni00A036/uni00A0mg QAM.
+ /uni25FD30–45 /uni00A0mg/day: Use /uni00A054/uni00A0mg QAM. /uni25FD40–60 /uni00A0mg/day: Use /uni00A072/uni00A0mg QAM.
+ /uni25FD27/uni00A0mg dose is available for situations in which a dose 
+between /uni00A018/uni00A0mg and /uni00A036/uni00A0mg is desired.
+ /uni2981Jornay PM: Start 20 mg daily in the evening and increase in increments of 20 mg/day up to maximum of 100 mg/day. 
+Adjust timing between 6:30 and 9:30 p.m.
+COST:  $$; Aptensio XR, Cotempla XR-ODT, Concerta, Jornay PM, Quillivant XR, and Quillichew ER: $$$$
+SIDE EFFECTS AND MECHANISM, MONITORING, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+Weight, height, BP/P; ECG. See methylphenidate IR fact sheet.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981FDA approved with many studies and long history of clinical use supporting its e ﬃcacy and safety, with a larger treatment 
+eﬀect size than non-stimulant medications.
+ /uni2981ER capsules contain mixture of /uni00A030% IR and /uni00A070% ER beads. Aptensio XR, a new branded formulation of ER capsules, 
+contains a mixture of /uni00A040% IR and /uni00A060% ER beads. Ritalin LA and its generic ER capsules are a combination of /uni00A050% IR 
+and /uni00A050% DR beads. These products mimic BID dosing of IR. Cotempla delivers a mixture of 25% IR and 75% ER in an orally 
+disintegrating extended-release formulation. Jornay PM is dosed in evening; if early-morning awakening occurs, dose 
+earlier in evening.
+ /uni2981Concerta is based on the OROS osmotic delivery system (also used for Invega). 22% of the dose is immediate (with e ﬀects 
+in/uni00A0one to two /uni00A0hours) and /uni00A078% is delayed. If you prescribe a generic, you may need to investigate carefully to ensure that 
+the delivery system is an OROS pump system. To avoid insomnia, dosing should be completed by noon.
+ADHD Medications
+ www.thecarlatreport.com  | CHILD MEDICATION FACT BOOK FOR PSYCHIATRIC PRACTICE, SECOND EDITION   31METHYLPHENIDATE  TRANSDERMAL  (Daytrana) Fact Sheet
+BOTTOM LINE:
+Daytrana is helpful for kids who, for whatever reason, cannot use any of the wide variety of oral stimulant preparations. 
+Otherwise, we don’t recommend it due to high cost, lag time for onset of e ﬀect, and the side e ﬀect of rash, which is pretty 
+common and unpleasant.
+PEDIATRIC FDA INDICATIONS:
+ADHD  (6–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+ADHD.
+DOSAGE FORMS:
+Transdermal patch:  10/uni00A0mg, 15 /uni00A0mg, 20 /uni00A0mg, 30 /uni00A0mg/9 /uni00A0hour.
+PEDIATRIC DOSAGE GUIDANCE:
+Start /uni00A010/uni00A0mg/9 /uni00A0hour patch QAM (for initial therapy or for patients switching from other methylphenidate preparations, 
+regardless of dose). Apply to hip /uni00A0two /uni00A0hours before an e ﬀect is needed and remove /uni00A0nine /uni00A0hours after application (drug e ﬀects 
+may persist for /uni00A0/f_ive/uni00A0hours after removal). Increase dose at weekly intervals by using next-higher-dose system. May be 
+removed in <9 /uni00A0hours if shorter duration is desired or if late-day side e ﬀects occur. Rotate application sites. Max /uni00A030/uni00A0mg QD.
+MONITORING:  Weight, height, BP/P; ECG.
+COST:  $$$
+SIDE EFFECTS:
+ /uni2981Most common: Headache, insomnia, irritability, decreased appetite, anorexia, nausea, tics, application site reaction 
+(10%–40% incidence in children).
+ /uni2981Serious but rare: Allergic contact dermatitis/sensitization, characterized by intense local reactions (eg, edema, papules) 
+that may spread beyond patch site; sensitization may subsequently manifest systemically with other routes of 
+methylphenidate administration.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Hepatic metabolism via carboxylesterase CES1A1, not CYP450 /uni00A0isoenzymes; t ½: 3–4 /uni00A0hours.
+ /uni2981Avoid use with MAOIs, antacids.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981FDA approved with several studies supporting its e ﬃcacy and safety, with a larger treatment e ﬀect size than non-
+stimulant medications, including in preschoolers (albeit no FDA indication for this age group).
+ /uni2981Apply patch to clean, dry area of the hip; don’t apply to waistline or to areas under tight clothes, as it may rub o ﬀ. 
+Alternate sites daily (eg, opposite hip). Absorption not a ﬀected by perspiration. Remove after /uni00A0nine /uni00A0hours. If dislodged, 
+replace with a new patch but remove within the /uni00A0nine-hour total wear time.
+ /uni2981Clinical e ﬀect usually seen in /uni00A0two /uni00A0hours and lasts approximately /uni00A012/uni00A0hours.
+ /uni2981Exposure of application site to a heat source (eg, hair dryer, heating pad, electric blanket) may increase the amount of 
+drug absorbed.
+ /uni2981For localized skin reactions (redness at site), use cortisone cream (1%–2%). For persistent, severe, or systemic reactions, 
+discontinue patch.
+ /uni2981In June /uni00A02015, the FDA added a warning that Daytrana can cause chemical leukoderma, a permanent loss of skin color. 
+These reactions are irreversible and not harmful but can be dis /f_iguring to patients. Instruct patients to contact their 
+physician if they notice skin color changes or lightening of skin areas; in such cases, an alternative medication should be 
+considered.
+ /uni2981The manufacturer recommends to not cut the patch as it may release medication inconsistently or too quickly.
+FUN FACT:
+Since /uni00A02006, Shire Pharmaceuticals has issued at least /uni00A010/uni00A0recalls of Daytrana patches because users have had di ﬃculty 
+removing the protective cover from the patch. Recall costs have reached into the millions.
+------------------------------------------------------------------- 
+MIXED  AMPHETAMINE  SALTS  (Adderall, Adderall XR, Mydayis) Fact Sheet [G]
+BOTTOM LINE:
+Adderall is e ﬀective but is probably the most misused and diverted of all stimulants, and it tends to have more side e ﬀects, 
+all of which is why we recommend starting most patients on methylphenidate instead.
+PEDIATRIC FDA INDICATIONS:
+ADHD  (3–17 /uni00A0years for IR, 6–17 /uni00A0years for XR, 13–17 /uni00A0years for Mydayis); narcolepsy  (6–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+ADHD; narcolepsy.
+OFF /hyphen.capLABEL USES:
+Obesity; treatment-resistant depression.
+DOSAGE FORMS:
+ /uni2981Tablets (Adderall, [G]):  5/uni00A0mg, 7.5 /uni00A0mg, 10 /uni00A0mg, 12.5 /uni00A0mg, 15 /uni00A0mg, 20 /uni00A0mg, 30 /uni00A0mg.
+ /uni2981ER capsules (Adderall XR, [G]):  5/uni00A0mg, 10 /uni00A0mg, 15 /uni00A0mg, 20 /uni00A0mg, 25 /uni00A0mg, 30 /uni00A0mg.
+ /uni2981ER capsules (Mydayis):  12.5 /uni00A0mg, 25 /uni00A0mg, 37.5 /uni00A0mg, 50 /uni00A0mg.
+PEDIATRIC DOSAGE GUIDANCE:
+ /uni2981ADHD:
+ –For IR and ER Adderall and its generic equivalent preparation. Initial dose should be /uni00A00.3/uni00A0mg/kg/day, but shoot for a 
+target dose of /uni00A01.0/uni00A0mg/kg/day and maximum dose of /uni00A02/uni00A0mg/kg/day.
+ –IR (ages /uni00A03–5): Start /uni00A02.5/uni00A0mg QAM, increase by /uni00A02.5/uni00A0mg/day increments in weekly intervals, max /uni00A040/uni00A0mg/day divided BID.
+ –IR (ages /uni00A06–17): Start /uni00A05/uni00A0mg QAM or BID, increase by /uni00A05/uni00A0mg/day increments in weekly intervals, max /uni00A040/uni00A0mg/day divided BID.
+ –ER (ages /uni00A06–12): Start /uni00A05–10 /uni00A0mg QAM, increase by /uni00A05–10 /uni00A0mg/day increments weekly, 30 /uni00A0mg/day.
+ –ER (ages /uni00A013–17): Start /uni00A010/uni00A0mg QAM, increase by /uni00A010/uni00A0mg/day increments weekly, max /uni00A040/uni00A0mg/day QAM in adolescents.
+ –Mydayis (adolescents /uni00A013–17 /uni00A0years): Start /uni00A012.5 /uni00A0mg QAM, increase in increments of /uni00A012.5 /uni00A0mg/day weekly, max /uni00A025/uni00A0mg/day.
+ /uni2981Narcolepsy: Start /uni00A05/uni00A0mg QAM (ages /uni00A06–11) or /uni00A010/uni00A0mg QAM (ages /uni00A012–17), increase by /uni00A05/uni00A0mg/day (ages /uni00A06–11) or /uni00A010/uni00A0mg/day 
+(ages /uni00A012–17) at weekly increments, max /uni00A060/uni00A0mg/day.
+MONITORING:  Weight, height, BP/P; ECG.
+COST:  IR/ER: $; Mydayis: $$$$
+SIDE EFFECTS:
+ /uni2981Most common: Insomnia, headache, decreased appetite, abdominal pain, weight loss, agitation.
+ /uni2981Serious but rare: See class warnings in chapter introduction.
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Stimulant that inhibits reuptake of dopamine and norepinephrine.
+ /uni2981Metabolized primarily through CYP2D6; t ½: 9–14 /uni00A0hours. Duration of action: 6–8 /uni00A0hours (IR), 8–12 /uni00A0hours (XR).
+ /uni2981Avoid use with MAOIs, antacids. Caution with /uni00A02D6 /uni00A0inhibitors, which may increase stimulant e ﬀects.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981FDA approved with many studies and long history of clinical use supporting its e ﬃcacy and safety, with a larger treatment 
+eﬀect size than non-stimulant medications.
+ /uni2981Each dose contains a mixture of amphetamine salts, resulting in a /uni00A075:25 /uni00A0ratio of dextro and levo isomers of amphetamine.
+ /uni2981When converting from IR to ER, use the same total daily dose, given QAM.
+ /uni2981Adderall may provide more of a “kick” than methylphenidate preparations. Roughly twice as potent (per mg) as 
+methylphenidate.
+ /uni2981Mydayis is formulated with pH-dependent drug-releasing beads, with immediate-release beads and delayed-release 
+beads that release drug at pH /uni00A05.5/uni00A0and pH /uni00A07.0. Duration of e ﬀect may be up to /uni00A016/uni00A0hours.
+ /uni2981Dextroamphetamine and mixed amphetamine salts are the only stimulants approved for children <6 /uni00A0years (approved for 
+children >3 /uni00A0years), with the exception of Mydayis, which causes very high rates of side e ﬀects (insomnia, reduced appetite) 
+in children <13 /uni00A0years and should only be used in children ≥13/uni00A0years.
+FUN FACTS:
+Was brie /f_ly pulled from the market in Canada in /uni00A02005 /uni00A0because of cardiac concerns, and now counterfeit Adderall is a 
+common vehicle for overdose and death due to adulteration with fentanyl or methamphetamine.
+ADHD Medications
+ www.thecarlatreport.com  | CHILD MEDICATION FACT BOOK FOR PSYCHIATRIC PRACTICE, SECOND EDITION   33VILOXAZINE  XR (Qelbree) Fact Sheet
+BOTTOM LINE:
+Like the /f_irst norepinephrine reuptake inhibitor for ADHD, atomoxetine, viloxazine has no misuse potential and is less likely 
+than stimulants to cause insomnia, anxiety, or tics. However, it is generally less e ﬀective than stimulants and takes longer to 
+work. While viloxazine may work faster than atomoxetine, it’s unclear if it has any advantage, and unlike atomoxetine, there’s 
+no option for a cheaper generic.
+PEDIATRIC FDA INDICATIONS:
+ADHD  (6–17 /uni00A0years).
+ADULT FDA INDICATIONS:
+ADHD.
+OFF /hyphen.capLABEL USES:
+Treatment-resistant depression.
+DOSAGE FORMS:
+ER capsules:  100 /uni00A0mg, 150 /uni00A0mg, 200 /uni00A0mg.
+PEDIATRIC DOSAGE GUIDANCE:
+ /uni2981Children >12: Start /uni00A0200/uni00A0mg QD, ↑ by/uni00A0200/uni00A0mg/day after one week to max 400 mg QD.
+ /uni2981Children 6–11: Start /uni00A0100/uni00A0mg QD, ↑ by 100 mg/day at weekly intervals to max 400 mg QD.
+MONITORING:  BP/P; baseline renal function.
+COST:  $$$$
+SIDE EFFECTS:
+ /uni2981Most common: Somnolence, decreased appetite, fatigue, nausea, vomiting, insomnia, irritability.
+ /uni2981Serious but rare: Class warning for suicidal ideation in children and teens. Mania reported. May increase pulse and BP .
+MECHANISM, PHARMACOKINETICS, AND DRUG INTERACTIONS:
+ /uni2981Selective norepinephrine reuptake inhibitor (NRI).
+ /uni2981Metabolized primarily via CYP2D6, UGT1A9, UGTB15; t ½: 7/uni00A0hours.
+ /uni2981Avoid use with MAOIs. Strong 1A2 inhibitor; exercise caution with /uni00A01A2 /uni00A0substrates with narrow therapeutic index (eg, 
+clozapine, duloxetine, ramelteon, tasimelteon, tizanidine, theophylline) as combination may increase side e ﬀects of 
+substrate.
+EVIDENCE AND CLINICAL PEARLS:
+ /uni2981ER capsules, so do not cut, crush, or chew; can open and sprinkle contents in applesauce.
+ /uni2981Adjust dose in severe renal impairment (eGFR <30 mL/min); max 200 mg/day.
+ /uni2981Data from one of four studies suggest viloxazine may work a bit faster than atomoxetine (week one vs week three), but 
+this /f_inding is not based on head-to-head data and it’s hard to know whether it is clinically signi /f_icant.
+ /uni2981Eﬀective and FDA approved for ADHD; however, not likely to produce as robust of a treatment e ﬀect as stimulants.
+ /uni2981Of the two NRIs available for ADHD, atomoxetine is cheaper than viloxazine.
+FUN FACT:
+Viloxazine has been studied and rejected for various indications since the 1970s and originally received an FDA orphan drug 
+designation for narcolepsy.
