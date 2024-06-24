@@ -57,7 +57,7 @@ Query: ```{query}```"""
             distance_strategy=DistanceStrategy.COSINE)
         return docsearch
 
-    def retrieve(self, query, docsearch, k=5):
+    def retrieve(self, query, docsearch, k=8):
         results = docsearch.similarity_search(query, k=k)
         return results
 
