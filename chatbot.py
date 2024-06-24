@@ -8,8 +8,6 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 from langchain_community.vectorstores.faiss import DistanceStrategy
 import os
-from trulens_eval.feedback.provider import OpenAI
-from trulens_eval.tru_custom_app import instrument
 import streamlit as st
 
 
@@ -59,12 +57,10 @@ Query: ```{query}```"""
             distance_strategy=DistanceStrategy.COSINE)
         return docsearch
 
-    @instrument
     def retrieve(self, query, docsearch, k=5):
         results = docsearch.similarity_search(query, k=k)
         return results
 
-    @instrument
     def query(self, query, chat_history):
 
         chat_history = deepcopy(chat_history)
