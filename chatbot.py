@@ -10,6 +10,7 @@ from langchain_community.vectorstores.faiss import DistanceStrategy
 import os
 from trulens_eval.feedback.provider import OpenAI
 from trulens_eval.tru_custom_app import instrument
+import streamlit as st
 
 
 os.environ["OPENAI_API_KEY"] = st.secrets["api_key"]
