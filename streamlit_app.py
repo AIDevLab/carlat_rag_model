@@ -30,11 +30,9 @@ prompt = st.chat_input(placeholder= "How can I help you?")
 if prompt:
     import os
     os.system('clear')
-    print(prompt)
 
     st.chat_message("user").write(prompt)
-    with  st.session_state['tru_rag'] as recording:
-        response, history = st.session_state.chatbot.query(prompt, st.session_state['messages'])
+    response, history = st.session_state.chatbot.query(prompt, st.session_state['messages'])
 
     st.session_state['messages'].append({"role": "user", "content": prompt})
     st.session_state.messages.append({"role": "assistant", "content": response})
